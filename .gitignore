@@ -24,6 +24,8 @@ env/
 dist/
 build/
 .pytest_cache/
+# Testing notebooks
+test.ipynb
 
 # ── OS files ────────────────────────────────
 .DS_Store
