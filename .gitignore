@@ -26,6 +26,7 @@ build/
 .pytest_cache/
 # Testing notebooks
 test.ipynb
+test.py
 
 # ── OS files ────────────────────────────────
 .DS_Store
