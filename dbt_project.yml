@@ -4,11 +4,11 @@ config-version: 2
 
 profile: jobradar
 
-model-paths: ["models"]
-seed-paths: ["seeds"]
-test-paths: ["tests"]
-analysis-paths: ["analyses"]
-macro-paths: ["macros"]
+model-paths: ["dbt/models"]
+seed-paths:    ["dbt/seeds"]
+test-paths:    ["dbt/tests"]
+analysis-paths: ["dbt/analyses"]
+macro-paths:   ["dbt/macros"]
 
 target-path: "target"
 clean-targets: ["target", "dbt_packages"]
