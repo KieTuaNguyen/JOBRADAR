@@ -1,4 +1,3 @@
-
 import logging
 import os
 from pathlib import Path
@@ -21,7 +20,6 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 def get_latest_csv(directory: Path) -> Path:
-    """Return the most recently created CSV in data/raw/."""
     csvs = sorted(directory.glob("jora_raw_*.csv"), reverse=True)
     if not csvs:
         raise FileNotFoundError(f"No raw CSV files found in {directory}")
