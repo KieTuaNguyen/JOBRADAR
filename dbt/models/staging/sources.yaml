@@ -1,0 +1,30 @@
+version: 2
+
+sources:
+  - name: raw
+    database: JOBRADAR
+    schema: RAW
+    tables:
+      - name: job_listings
+        description: "Raw job listings scraped from Jora"
+        columns:
+          - name: job_id
+            description: "Unique job identifier"
+          - name: title
+            description: "Job title"
+          - name: company
+            description: "Company name"
+          - name: location
+            description: "Job location"
+          - name: date_posted
+            description: "Date the job was posted"
+          - name: description
+            description: "Full job description text"
+          - name: job_url
+            description: "URL to the job listing"
+          - name: search_title
+            description: "Search query that returned this job"
+          - name: search_location
+            description: "Search location used"
+          - name: scraped_at
+            description: "Timestamp when the job was scraped"
