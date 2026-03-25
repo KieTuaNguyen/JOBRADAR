@@ -8,9 +8,9 @@
 dbt/profiles.yml
 
 # ── Raw data snapshots ──────────────────────
-data/
-*.json
-*.csv
+!data/raw/
+!data/raw/*.json
+!data/raw/*.csv
 
 # ── Python ──────────────────────────────────
 __pycache__/
