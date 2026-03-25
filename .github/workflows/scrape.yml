@@ -1,22 +1,22 @@
-name: JOBRADAR Pipeline
+name: JOBRadar Daily Scrape & dbt Run
 
 on:
   schedule:
-    - cron: '0 20 * * *'   # 6:00 AM AEST 
-  workflow_dispatch:
+    - cron: '0 20 * * *'  # Runs daily at 6am AEST (UTC+10)
+  workflow_dispatch:      
 
 jobs:
-  pipeline:
+  scrape-and-transform:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
+      # 1. Checkout the repo
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      # 2. Setup Python
+      # 2. Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
@@ -25,44 +25,38 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      # 4. Install Chrome (for Selenium)
+      # 4. Install Chrome + ChromeDriver for Selenium
       - name: Install Chrome
-        uses: browser-actions/setup-chrome@v1
-
-      # 5. Run scraper
-      - name: Run scraper
-        run: python src/scraper.py
-
-      # 6. Commit new raw data (only if changed)
-      - name: Commit raw data
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
 
-          git add data/raw/
+      - name: Install ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "AUTO: Update raw job data"
-            git push
-          fi
-
-      # 7. Run loader (Snowflake)
-      - name: Load to Snowflake
+      # 5. Run the scraper
+      - name: Run Jora scraper
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
           SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
-          SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
           SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
           SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
-          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
-        run: python src/loader.py
-
-      # 8. Trigger dbt Cloud job
-      - name: Trigger dbt Cloud job
+          SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
         run: |
-          curl -X POST "https://cloud.getdbt.com/api/v2/accounts/${{ secrets.DBT_ACCOUNT_ID }}/jobs/${{ secrets.DBT_JOB_ID }}/run/" \
-          -H "Authorization: Token ${{ secrets.DBT_API_TOKEN }}" \
-          -H "Content-Type: application/json"
+          python src/scraper/run_scraper.py
+
+      # 6. Trigger dbt Cloud job via API
+      - name: Trigger dbt Cloud job
+        env:
+          DBT_API_TOKEN: ${{ secrets.DBT_API_TOKEN }}
+          DBT_ACCOUNT_ID: ${{ secrets.DBT_ACCOUNT_ID }}
+          DBT_JOB_ID: ${{ secrets.DBT_JOB_ID }}
+        run: |
+          curl -s -X POST \
+            "https://cloud.getdbt.com/api/v2/accounts/${DBT_ACCOUNT_ID}/jobs/${DBT_JOB_ID}/run/" \
+            --header "Authorization: Token ${DBT_API_TOKEN}" \
+            --header "Content-Type: application/json" \
+            --data '{
+              "cause": "Triggered by GitHub Actions — JOBRadar daily scrape"
+            }'
