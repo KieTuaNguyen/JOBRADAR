@@ -16,11 +16,11 @@ clean-targets: ["target", "dbt_packages"]
 models:
   jobradar:
     staging:
-      +schema: STAGING
+      +schema: ~
       +materialized: view
     intermediate:
-      +schema: INTERMEDIATE
+      +schema: ~
       +materialized: view
     marts:
-      +schema: MARTS
+      +schema: ~
       +materialized: table
