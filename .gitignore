@@ -7,11 +7,6 @@
 # dbt profiles (contains Snowflake password)
 dbt/profiles.yml
 
-# ── Raw data snapshots ──────────────────────
-!data/raw/
-!data/raw/*.json
-!data/raw/*.csv
-
 # ── Python ──────────────────────────────────
 __pycache__/
 *.py[cod]
