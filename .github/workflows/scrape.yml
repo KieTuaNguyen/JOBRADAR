@@ -1,0 +1,68 @@
+name: JOBRADAR Pipeline
+
+on:
+  schedule:
+    - cron: '0 20 * * *'   # 6:00 AM AEST 
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Setup Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 4. Install Chrome (for Selenium)
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      # 5. Run scraper
+      - name: Run scraper
+        run: python src/scraper.py
+
+      # 6. Commit new raw data (only if changed)
+      - name: Commit raw data
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add data/raw/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "AUTO: Update raw job data"
+            git push
+          fi
+
+      # 7. Run loader (Snowflake)
+      - name: Load to Snowflake
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
+          SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
+          SNOWFLAKE_SCHEMA: ${{ secrets.SNOWFLAKE_SCHEMA }}
+          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
+        run: python src/loader.py
+
+      # 8. Trigger dbt Cloud job
+      - name: Trigger dbt Cloud job
+        run: |
+          curl -X POST "https://cloud.getdbt.com/api/v2/accounts/${{ secrets.DBT_ACCOUNT_ID }}/jobs/${{ secrets.DBT_JOB_ID }}/run/" \
+          -H "Authorization: Token ${{ secrets.DBT_API_TOKEN }}" \
+          -H "Content-Type: application/json"
