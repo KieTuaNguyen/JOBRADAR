@@ -86,7 +86,7 @@ jobs:
           DBT_JOB_ID: ${{ secrets.DBT_JOB_ID }}
         run: |
           curl -s -X POST \
-            "https://cloud.getdbt.com/api/v2/accounts/${DBT_ACCOUNT_ID}/jobs/${DBT_JOB_ID}/run/" \
+            "https://qo966.us1.dbt.com/api/v2/accounts/${DBT_ACCOUNT_ID}/jobs/${DBT_JOB_ID}/run/" \
             --header "Authorization: Token ${DBT_API_TOKEN}" \
             --header "Content-Type: application/json" \
             --data '{
