@@ -8,11 +8,15 @@ on:
 jobs:
   scrape-and-transform:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       # 1. Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Set up Python
       - name: Set up Python
