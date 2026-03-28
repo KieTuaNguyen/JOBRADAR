@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_job_listings
+    columns:
+      - name: job_id
+        tests:
+          - not_null
+          - unique
+      - name: job_title
+        tests:
+          - not_null
+      - name: job_category
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Data Engineer', 'Data Analyst', 'Data Scientist', 'ML Engineer', 'Other']

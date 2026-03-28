@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: mart_jobs
+    columns:
+      - name: job_id
+        tests:
+          - not_null
+          - unique
+      - name: job_category
+        tests:
+          - not_null
+      - name: state
+        tests:
+          - not_null
+
+  - name: mart_skills
+    columns:
+      - name: skill
+        tests:
+          - not_null
+      - name: job_category
+        tests:
+          - not_null
+
+  - name: mart_salary
+    columns:
+      - name: job_category
+        tests:
+          - not_null
+      - name: state
+        tests:
+          - not_null
