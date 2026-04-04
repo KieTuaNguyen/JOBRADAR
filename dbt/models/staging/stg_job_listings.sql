@@ -4,6 +4,7 @@ with
     (
         select *
         from {{ source
+    
     ('raw', 'job_listings') }}
 ),
 
@@ -19,9 +20,10 @@ cleaned as
     job_url,
     search_title,
     search_location,
-    TO_TIMESTAMP_NTZ(
-            SUBSTR(scraped_at::VARCHAR, -19)
-        ) as scraped_at,
+    TRY_CAST(
+    REGEXP_SUBSTR(scraped_at::VARCHAR, '\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}')
+    AS TIMESTAMP_NTZ
+) as scraped_at,
 
     case
             when lower(search_title) like '%data engineer%'   then 'Data Engineer'
