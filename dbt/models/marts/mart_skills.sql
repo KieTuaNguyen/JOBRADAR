@@ -1,39 +1,74 @@
-with skill_unpivot as (
-    select job_category, 'Python'      as skill, skill_python      as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'SQL'         as skill, skill_sql         as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Spark'       as skill, skill_spark       as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Airflow'     as skill, skill_airflow     as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'dbt'         as skill, skill_dbt         as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'AWS'         as skill, skill_aws         as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Azure'       as skill, skill_azure       as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'GCP'         as skill, skill_gcp         as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Tableau'     as skill, skill_tableau     as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Power BI'    as skill, skill_powerbi     as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'ML'          as skill, skill_ml          as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Docker'      as skill, skill_docker      as mentioned from {{ ref('int_job_listings_enriched') }}
-    union all
-    select job_category, 'Kubernetes'  as skill, skill_kubernetes  as mentioned from {{ ref('int_job_listings_enriched') }}
+WITH
+    deduped
+    AS
+    (
+        SELECT *,
+            ROW_NUMBER() OVER (
+            PARTITION BY job_title, company_name, date_posted
+            ORDER BY scraped_at DESC
+        ) AS rn
+        FROM {{ ref
+    ('int_job_listings_enriched') }}
+),
+
+clean AS
+(
+    SELECT *
+FROM deduped
+WHERE rn = 1
+)
+,
+
+skill_unpivot AS
+(
+    SELECT job_category, 'Python'     AS skill, skill_python     AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'SQL'        AS skill, skill_sql        AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Spark'      AS skill, skill_spark      AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Airflow'    AS skill, skill_airflow    AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'dbt'        AS skill, skill_dbt        AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'AWS'        AS skill, skill_aws        AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Azure'      AS skill, skill_azure      AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'GCP'        AS skill, skill_gcp        AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Tableau'    AS skill, skill_tableau    AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Power BI'   AS skill, skill_powerbi    AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'ML'         AS skill, skill_ml         AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Docker'     AS skill, skill_docker     AS mentioned
+    FROM clean
+UNION ALL
+    SELECT job_category, 'Kubernetes' AS skill, skill_kubernetes AS mentioned
+    FROM clean
 )
 
-select
+SELECT
     job_category,
     skill,
-    count(*)                                        as total_jobs,
-    sum(case when mentioned then 1 else 0 end)      as jobs_mentioning_skill,
-    round(
-        sum(case when mentioned then 1 else 0 end) * 100.0 / count(*), 1
-    )                                               as mention_pct
-from skill_unpivot
-group by job_category, skill
-order by job_category, mention_pct desc
+    COUNT(*)                                        AS total_jobs,
+    SUM(CASE WHEN mentioned THEN 1 ELSE 0 END)      AS jobs_mentioning_skill,
+    ROUND(
+        SUM(CASE WHEN mentioned THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 1
+    )                                               AS mention_pct
+FROM skill_unpivot
+GROUP BY job_category, skill
+ORDER BY job_category, mention_pct DESC
