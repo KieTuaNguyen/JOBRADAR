@@ -29,3 +29,6 @@ Thumbs.db
 .idea/
 *.swp
 dbt_internal_packages/
+
+# ── Dashboard development ───────────────────────────────  
+PBI
