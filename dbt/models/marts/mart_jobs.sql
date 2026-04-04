@@ -1,4 +1,23 @@
-select
+WITH
+    source
+    AS
+    (
+        SELECT *
+        FROM {{ ref
+    ('int_job_listings_enriched') }}
+),
+
+deduped AS
+(
+    SELECT *,
+    ROW_NUMBER() OVER (
+            PARTITION BY job_title, company_name, date_posted
+            ORDER BY scraped_at DESC
+        ) AS rn
+FROM source
+)
+
+SELECT
     job_id,
     job_title,
     company_name,
@@ -11,4 +30,5 @@ select
     salary_lower,
     job_url,
     scraped_at
-from {{ ref('int_job_listings_enriched') }}
+FROM deduped
+WHERE rn = 1
