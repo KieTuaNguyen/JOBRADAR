@@ -1,0 +1,1226 @@
+﻿job_id,title,company,location,date_posted,description,job_url,search_title,search_location,scraped_at
+acbe3509-84b7-4bf5-bf2d-5491b5405a94,"AI/ML Engineer - Generative AI, MLOps & AWS (Sydney)",TheDriveGroup,City of Sydney NSW,2026-06-02,"TheDriveGroup is seeking an AI/ML Engineer in Sydney CBD to join a fast-moving Data & AI team. In this role, you'll design, develop, and deploy machine learning and Generative AI solutions. Your efforts will directly impact the business and shape its internal AI capability.
+We require a candidate with strong skills in Python and SQL, an understanding of MLOps practices, and experience with AWS and modern data/AI platforms. This position offers a hybrid work model, allowing 3 days a week in the office.
+#J-18808-Ljbffr",https://au.jora.com/job/AI-ML-Engineer-694200d984382bd8daae3f3a28698d4b,ML Engineer,New South Wales,2026-06-12 21:44:22
+c0c8f411-b4c4-46c4-b5a6-731b8f942836,Immersive AI Audio Codec Engineer | ML & Standards (SDO),TikTok,City of Sydney NSW,2026-06-02,"Responsibilities
+Team Introduction
+Welcome to Video Arch Intelligent Immersive Audio Team! We are dedicated to pushing the boundaries of immersive audio technology and standardization. In addition to supporting TikTok requirements including short video, live-streaming, content creation tools and also VR/AR experiences, we also stay up-to-date with the latest research in the industry and participate in audio Standards Developing Organizations(SDO) such as MPEG, 3GPP, and IETF, etc. As part of our commitment to innovation, we proactively conduct R&D using Machine Learning and NN models(especially generative models) for immersive audio technology. If you're looking to work with a team that values creativity, innovation, and collaboration, we'd love to hear from you. Please join us to reshape the audio world together.
+Responsibilities
+- Develop a high compression rate full-band AI audio codec algorithm system based on generative frameworks. Research and apply model architectures such as VQ-VAE, GAN, and Diffusion to audio feature representations and high-quality AI audio codec systems.
+- Follow and research the next-generation audio codec system for machines. Build underlying technologies for machine-oriented intelligent audio representation and interaction.
+- Participate in the development of domestic and foreign audio standards and supporting systems, including domestic UWA, AVS standard organizations, and international 3GPP SA4, MPEG-IWG6, IETF, MPAI, etc.
+Qualifications
+Minimum Qualifications
+- PhD in related majors such as computer science, electronic information, communication engineering, information and systems, artificial intelligence, with a good academic research background.
+- Have the ability to model digital signals and artificial intelligence/deep learning algorithms and validate the systems. Those who have had complete experience in participating in international standard formulation are preferred.
+Preferred Qualifications
+- Good technical vision, communication, and persuasive abilities. Able to effectively communicate technical concepts in English.
+- Have influential works published in related international conferences or mainstream journals such as machine learning, artificial intelligence, and multimedia processing.
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an ""Always Day 1"" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.
+Diversity & Inclusion
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+Acknowledgment of Country
+In the spirit of reconciliation, TikTok acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+#J-18808-Ljbffr",https://au.jora.com/job/Engineer-e1f88eaf5aa4e3f605b0286017713472,ML Engineer,New South Wales,2026-06-12 21:44:25
+360f18b8-9235-44dd-a3ef-2b6069629bc5,AI/ML Software Engineer,Presbyterian Ladies' College Sydney,Sydney NSW,2026-05-26,"About Akordi 
+Akordi is transforming how the world's most complex infrastructure projects make critical decisions. A Laing O'Rourke subsidiary, we combine deep construction expertise with cutting-edge AI to deliver decision intelligence across the full project lifecycle — from early planning through live operations. 
+Our SaaS platform brings together risk management, schedule optimisation, and advanced analytics to help project teams execute with greater certainty. We work at the intersection of optimisation engineering and strategic consulting, solving multi-dimensional challenges that traditional tools simply can't handle. 
+With a growing presence across Australia and the UK, we're at an exciting point in our journey — scaling our platform, our people, and our impact across some of the world's most demanding programmes. 
+About the role
+We are seeking an AI/ML Software Engineer to join our R&D team and contribute to the design, development, and deployment of machine learning solutions that power Akordi's decision intelligence platform. This is a hands-on engineering role for a practitioner who is strong in Python and machine learning fundamentals, has real experience deploying models into production, and brings genuine curiosity about applying AI to complex, data-rich problems.
+You will work across the full ML development lifecycle — from exploratory data analysis and feature engineering through to model deployment, API integration, pipeline optimisation, and production monitoring. You will collaborate closely with product and engineering colleagues to translate business requirements into working ML systems with measurable outcomes.
+
+Key responsibilities
+Design and develop machine learning models for prediction, classification, optimisation, and anomaly detection using structured and unstructured datasets
+Build, optimise, and maintain end-to-end data pipelines (ETL/ELT) to support model training, validation, and production inference at scale
+Deploy ML models into production environments, integrating outputs with backend services and user-facing applications via REST APIs
+Perform exploratory data analysis and advanced feature engineering to extract actionable signals and improve model performance
+Develop automated data processing workflows that improve efficiency and reduce manual intervention across the ML lifecycle
+
+About you
+Master's degree in Computer Science, Computer Engineering, Computer Networks, or a closely related technical discipline
+Minimum 2 years of commercial experience in applied ML/AI engineering, data science, or machine learning engineering roles
+Demonstrated experience developing and deploying machine learning models into production environments
+Proficiency in Python and key ML frameworks including TensorFlow and scikit-learn
+Experience integrating ML model outputs into production systems via REST APIs and backend services
+Familiarity with cloud infrastructure, particularly AWS (EC2, S3)
+
+Highly regarded
+Academic research background in network optimisation, resource allocation, or operations research — directly relevant to Akordi's infrastructure decision intelligence domain
+Experience developing decision-support or analytics systems for energy, telecommunications, or industrial clients
+Exposure to object detection, time series forecasting, or real-time data visualisation systems
+Published academic or applied research in machine learning or related fields
+Familiarity with containerised deployment environments (Docker)
+Experience with Power BI or similar business intelligence tooling for stakeholder reporting
+
+Benefits
+We work hard to create an environment that brings out the best in our people. We believe in building careers through providing a safe, connected and innovative culture that supports ongoing growth and development. We offer industry-leading benefits such as specialised learning and development programs, a mental health and wellbeing program, industry leading paid parental leave policy, an additional purchased leave option and coaching programs for staff on parental leave.
+
+Diversity & Inclusion
+We are committed to building a workforce that reflects the diverse society in which we live and work. Laing O’Rourke is recognised as a WGEA Employer of Choice for Gender Equality in 2020, 2022, 2024 and 2026. We know that the right culture and purposeful innovation are key to delivering impact.
+Laing O'Rourke actively supports a diverse workforce and strongly encourages applications from Aboriginal and Torres Strait Islander Peoples and people from culturally diverse backgrounds. Download our Stretch Reconciliation Action Plan at https://www.laingorourke.com/company/diversity-and-inclusion
+Applications from recruitment agencies will not be considered.",https://au.jora.com/job/Software-Engineer-0a1d1a1ef04c1d7fc4311800fd2b8a6c,ML Engineer,New South Wales,2026-06-12 21:44:27
+4f3e3869-4010-4b07-8f89-d656044525c6,Staff Applied ML Engineer,Marigold,Sydney NSW,2026-04-13,"The Company
+Marigold is a fast-growing marketing technology company helping growing businesses build stronger customer relationships through its three core platforms: Emma, Campaign Monitor, and Vuture. We deliver powerful tools for email, SMS, and marketing automation that elevate engagement and drive real results. Marigold is headquartered in Nashville, Tennessee with offices in Sydney and London.
+About the Role
+We are seeking a Staff Applied ML Engineer to join our dynamic, fully remote team. You will play a key role in building and scaling machine learning capabilities across our platform, with an initial focus on predictive models and intelligence features that improve customer outcomes.
+This is a highly hands-on role. You will design, build, and productionize ML systems that turn our product and historical data into actionable predictions and recommendations. You will partner closely with a Principal Engineer, product teams, and engineers across the organization to integrate these capabilities into core product experiences.
+This role complements our broader platform and architectural leadership by bringing deep expertise in applied machine learning, feature engineering, model deployment, and production inference. You will contribute directly to critical systems and help us build a strong foundation for ML-driven product capabilities.
+You will also contribute to our broader engineering community by sharing best practices for model development, evaluation, deployment, and iteration.
+Key Responsibilities
+Work across the Campaign Monitor product to identify valuable opportunities in product and customer data, and turn them into predictive features that improve customer outcomes
+Turn rich historical product and customer data into predictive features that improve customer outcomes
+Identify high-impact opportunities for applied machine learning by analyzing product, behavioral, and content data, and translating ambiguous product questions into concrete ML use cases
+Develop and deploy predictive machine learning models, including models for click-through rate, churn, recommendations, and related engagement signals
+Design and build features and training datasets from structured product data, historical behavioral data, and content-derived signals
+Own the applied ML lifecycle from data exploration and feature engineering through training, evaluation, deployment, monitoring, and iteration
+Build production services and workflows for batch and real-time inference, with a pragmatic focus on reliability, maintainability, and speed to impact
+Work hands-on in the codebase, contributing to backend systems and product workflows that consume predictions and recommendations
+Partner closely with product, design, and engineering to turn customer needs into ML-driven product capabilities with measurable business impact
+Establish pragmatic best practices for model evaluation, experimentation, monitoring, and continuous improvement
+Help shape how applied machine learning is introduced into the product, while aligning with broader engineering architecture and delivery practices
+Contribute to shared knowledge across the engineering organization to improve understanding and adoption of applied ML over time
+About You
+You are a hands-on engineer who enjoys building and shipping real-world ML systems
+You are comfortable working across data, modeling, and software engineering boundaries
+You make pragmatic decisions, balancing speed, quality, and long-term maintainability
+You take ownership of outcomes, not just models
+You write clean, maintainable code and contribute to a high standard of engineering quality
+You collaborate effectively with engineers, product managers, and designers to solve complex problems
+You are comfortable operating in evolving problem spaces where data quality, ambiguity, and iteration are part of the work
+You are motivated to share knowledge and raise the capability of the broader team
+Ideal Qualifications
+7–8+ years building ML systems in production environments 
+Strong experience with applied machine learning for prediction, classification, regression, ranking, or recommendation problems
+Experience with feature engineering, model evaluation, model lifecycle management, and production inference
+Strong experience with Python and common ML tooling
+Experience integrating ML systems into production products at scale
+Strong understanding of backend systems, APIs, data pipelines, and scalable architecture
+Experience with MLOps practices, including deployment, monitoring, retraining, and iteration
+Experience with cloud platforms, preferably AWS
+Nice to Have
+Experience with growth, marketing, advertising, or recommendation systems
+Experience using LLMs or embeddings to derive content features or enhance product workflows
+Experience designing experiments or working with A/B testing and model performance validation
+Experience building AI or ML enabled SaaS products at scale
+Missing a few skills? That’s fine - we value curiosity, growth and the drive to contribute.
+What We Offer
+Flexibility & Balance: Remote-first, flexible hours, open time away (unlimited annual leave), birthday leave, and strong support for work-life harmony.
+Connection & Culture: Regular team events, Devcamp, hackathons and Culture Club to build genuine relationships and celebrate together.
+Professional Growth: Clear career progression, mentorship, continuous learning opportunities, and the chance to work at scale on impactful projects.
+Support & Benefits: Generous parental leave, home office setup allowance, salary continuance and life insurance, superannuation, plus access to Sydney office spaces.",https://au.jora.com/job/Staff-Applied-ML-052355147d99e30daa25b663a108c8c5,ML Engineer,New South Wales,2026-06-12 21:44:29
+5440a152-e469-43e9-9ea4-2f1b0374c718,"PhD ML Engineer - Trust & Safety (Sydney, 2026 Start)","Ellis Technologies, Inc.",City of Sydney NSW,2026-06-05,"Ellis Technologies, Inc. is seeking a PhD Graduate Machine Learning Engineer for its Trust and Safety Engineering team. Located in Sydney, you'll collaborate on research projects, developing industry-leading trust and safety systems for TikTok.
+The ideal candidate should be pursuing a PhD or Master's in Computer Science with knowledge in machine learning and related areas. Strong communication and teamwork skills are essential.
+#J-18808-Ljbffr",https://au.jora.com/job/PhD-ML-Engineer-e373ebe716e2f854dda40fb1f7affc32,ML Engineer,New South Wales,2026-06-12 21:44:31
+c627a9ff-e081-4924-9662-67045040a98a,AI / ML Engineer,TheDriveGroup,Sydney NSW,2026-05-18,"Join a fast-moving Data & AI team that's transforming how financial services operate. This is a genuine greenfield opportunity where you’ll play a key role in designing, developing and deploying scalable machine learning and Generative AI solutions that will have a direct impact across the business
+As an AI/ML Engineer, you'll help shape the future of AI at the core of a rapidly evolving business. This role is ideal for someone who enjoys solving complex technical problems, thrives in a collaborative environment and wants to help shape the future direction of an internal AI capability.
+Salary: $140k-$150k Base + Super + Bonus
+Location: Sydney CBD 
+Hybrid | 3 days/week in office
+What You’ll Do
+Designing, building and deploying machine learning models across a range of use cases
+Working with both traditional ML techniques (regression, tree-based models, gradient boosting) and deep learning/neural networks
+Developing and fine-tuning Large Language Models (LLMs) and Generative AI applications
+Building scalable ML pipelines and contributing to platform architecture and best practices
+Deploying and managing models within AWS using services such as SageMaker and Bedrock
+Driving model evaluation, monitoring and continuous improvement processes
+Collaborating closely with engineering, data and business stakeholders to deliver production-ready AI solutions
+Contributing to MLOps practices including versioning, automated retraining, drift detection and performance monitoring
+What You’ll Bring
+Strong Python and SQL skills with experience building and deploying ML models in production
+Exposure to classical ML, neural networks and Generative AI/LLMs
+Understanding of MLOps practices including model monitoring, retraining and versioning
+Experience with AWS (preferred), Azure or GCP and cloud-based ML tooling
+Familiarity with Snowflake, dbt, SageMaker, Bedrock or similar modern data/AI platforms
+Strong communication skills and the ability to thrive in a collaborative, fast-paced environment
+If you have any questions about this role or others we have available you can email our team directly via ****@thedrivegroup.com.au 
+  
+For The Latest Jobs, Tech News or to 'Introduce A Friend' for a $1000 Referral Fee - Follow Us On Linkedin:
+  
+https://www.linkedin.com/company/thedrivegroup
+  
+TheDriveGroup is 100% committed to improving meaningful diversity in the technology industry.
+  
+We partner with clients who embrace diversity and seek candidates across all backgrounds, abilities, genders, sexualities, cultures, and faiths.
+  
+If you have the right skills and attitude we would love to hear from you!
+Reference number: 4038195
+Company: TheDriveGroup
+Date posted: 18th May, 2026",https://au.jora.com/job/AI-ML-Engineer-fcda9c92e65a2c9503e2afdf1248df2f,ML Engineer,New South Wales,2026-06-12 21:44:34
+d3601c90-a7ba-4807-b990-0f3156de3123,"Lead Data Engineer: Cloud, ML & Marketing Analytics",Choreograph LLC,City of Sydney NSW,2026-06-02,"Choreograph LLC is seeking a Lead Data Engineer to join their Australia-based team. This senior position requires extensive experience with Google Cloud Platform solutions, particularly in Marketing Analytics and Machine Learning. The role involves leading the design and implementation of robust data infrastructure and mentoring a team of engineers. The ideal candidate will have strong skills in Python, SQL, and ETL development, with a commitment to innovation in the marketing ecosystem.
+#J-18808-Ljbffr",https://au.jora.com/job/Data-Engineer-29054498926c6b2a2ebd422bb15ebf62,ML Engineer,New South Wales,2026-06-12 21:44:36
+bdc8018b-45b0-4f3e-9632-04d22abac2f5,Senior Machine Learning Engineer - Content ML (AU remote),Canva,Sydney NSW,2026-04-13,"Company Description
+Join the team redefining how the world experiences design.
+Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+Where and how you can work
+Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth & Adelaide. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia, so you can choose the setup that empowers you and your team to do your best work.
+Job Description
+About the team
+Join the innovation powerhouse - Content Machine Learning team at Canva! Our vision is to empower all our users with the safest and highest quality content at scale. We build models and human-in-the-loop workflows to amplify our content review efforts so that we can:
+Unlock review operations with review automation
+Close the loop for feedback to our models and raise the quality bar
+Ensure the safety of our library for all our users, including students
+Finally, our crazy big goal is to build an automated review system with humans at the heart of operations, leading the continuous improvement and evolution of the system.
+What you’d be doing in this role
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+Research, develop and deploy AI based solutions to automate content moderation and review of Canva’s content
+Work with diverse stakeholders to guide the technical vision while being responsible for break-down and delivery of large projects
+Design, develop and deploy solutions and hands-on software development – working closely with leads, designers, and product managers
+Foster an impactful and healthy team via a healthy code review culture, knowledge sharing, design showcases, and process improvements
+Promote a safe and healthy culture with a focus on collaboration and open communication while advocating for engineering needs to non-technical stakeholders within the group
+Staying updated on industry trends and best practices to innovate and improve the domain owned by the team.
+(optional) Coaching members of your Machine Learning team and help them navigate technical problems.
+You're probably a match if
+You have at least 5+ years of industry experience in a machine learning engineering role in a Product/SaaS company.
+Experience in text, image, video, and audio understanding is highly desirable.
+Experience working cross-functionally with Product Managers and other business functions outside of engineering.
+Have experience proposing automation initiatives with humans-in-the-loop and seeing things through end-to-end.
+What the candidate will learn and how will they develop at Canva:
+Deep expertise in large-scale machine learning systems and real-world AI applications
+Opportunities to work on high-impact problems affecting millions of users globally
+Exposure to cutting-edge ML techniques and evolving content safety challenges
+Growth in cross-functional collaboration, technical leadership, and product thinking
+The chance to contribute to Canva’s mission of empowering the world to design safely and confidently
+Additional Information
+Don't tick all the boxes? Don't worry about that - nobody does!  
+We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
+What's in it for you?
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
+Here's a taste of what's on offer:
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+Check out  lifeatcanva.com for more info.
+Other stuff to know
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+All interviews are conducted virtually",https://au.jora.com/job/Machine-Learning-Engineer-9eaf3225b5aafb7b043ce33190dcf011,ML Engineer,New South Wales,2026-06-12 21:44:38
+232150cf-750d-4ee3-b97b-a20d69e7108c,AI/ML Engineer,CareCone Group,Sydney NSW,2026-06-01,"Role : AI/ML Engineer
+Type of role - Permanent Position
+Location : Sydney, Australia
+Job Description
+Run end to end AI experimentations/Proof of Concepts/ productization collaborate with AI delivery team, business , product teams, data, legal ,cyber architecture etc.
+Partner with outside AI vendors and internal teams to launch and approve new tools.
+Check internal /external AI tools for potential biases, safety issues, and risk levels.
+Create security and risk review processes
+Support business teams on AI Governance and approval process
+Work with business, legal,cyber /prod sec, architecture to ensure new AI tools and products follow NCA AI principles
+Monitor AI producer and identify areas for improvements, enhancements, and collaboration
+Skills needed
+Strong understanding of AI and machine learning principles and applications.
+Experience in product management, preferably with a focus on AI powered products.
+Interested candidate can share share their resume at ***email_hidden*** or call me on +61 283195***",https://au.jora.com/job/AI-ML-Engineer-757496f940f39c185f207396a13b8f7f,ML Engineer,New South Wales,2026-06-12 21:44:40
+a0054c13-d62d-420d-966d-a89ec4a5530d,Staff ML Engineer: Autonomous Agent Architect,Zendesk,City of Sydney NSW,2026-06-02,"Staff ML Engineer: Agentic AI
+Team: AI Agents | Location: Melbourne / Sydney / Remote (AU)
+What we have built
+We run production AI agents that autonomously resolve customer service tickets across 100,000+ Zendesk accounts. These agents take a customer issue, plan a multi-step resolution, execute real actions (refunds, order modifications, escalations) through live APIs, and close the ticket without a human in the loop.
+The agent core uses a proprietary iterative architecture: the agent decomposes goals into plans, pulls reusable skills from a registry, executes, evaluates the outcome, and refines. Each iteration feeds back into the next attempt. We have a working self‑learning mechanism where successful resolution patterns are synthesized into new skills and fed back into the registry, so the system improves from its own execution history.
+On multi‑step tool‑use benchmarks (GAIA‑class), our agents perform at parity with the best published results. Our internal evaluation suite runs 158+ scenario‑based tests from real Zendesk tickets, scored continuously through Braintrust with regression detection on every deploy.
+What we need help with
+Pushing the architecture further. The iterative planner works, but there are open questions we have not solved yet: how to handle plan decomposition when the goal is ambiguous, how to manage interference between memory tiers under concurrent sessions, how to make skill acquisition more selective (the agent acquires skills too eagerly today), and how to design multi‑agent delegation patterns where one agent hands off subtasks to specialized agents via A2A (the Agent‑to‑Agent protocol).
+Domain‑specialized agent models. We are building toward training our own models, specialized for customer service resolution via RL on production trajectories. The data pipeline is already being instrumented (resolution outcomes, escalation patterns, user satisfaction signals). The next step is the RL training infrastructure itself: reward curricula, rollout systems, and the feedback loops that turn a capable base model into a specialist that matches or beats frontier models on our task distribution at significantly lower inference cost. This is a 6‑12 month build, and we need someone who can own both the science and the systems.
+Hardening evaluation. We run 158+ scenario evals continuously with regression detection, but multi‑turn evaluation and automated trajectory analysis (pinpointing where reasoning diverged) are still early. We need quality gates that block deploys when agent performance drops, and we need them integrated into CI, not run as an afterthought.
+Guardrails at enterprise scale. The threat surface for autonomous agents includes tool misuse, cascading action chains, prompt injection, and hallucination loops that burn tokens before anyone notices. We need multi‑layered defenses with supervisor patterns, capabilities‑based access control, and output validation that works across thousands of concurrent sessions without adding meaningful latency.
+What we are looking for
+5+ years building production ML/AI systems, with hands‑on experience in agent architectures (planning, tool dispatch, memory, error recovery). If you have only used LangChain tutorials, this is not the right fit.
+Strong evaluation instincts. You understand why public benchmarks diverge from production performance and you have built internal evals to close that gap.
+OPTIONAL: Experience with or genuine depth in RL for language models: reward shaping, online/offline tradeoffs, reward hacking as a diagnostic signal. We are building toward domain‑specialized training and need someone who can lead that work.
+Python and PyTorch fluency. Familiarity with at least one agent framework, combined with the judgment to know when to build custom.
+Zendesk is an equal opportunity employer, and we’re proud of our ongoing efforts to foster global diversity, equity, & inclusion in the workplace. Individuals seeking employment and employees at Zendesk are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, disability, military or veteran status, or any other characteristic protected by applicable law. We are an AA/EEO/Veterans/Disabled employer. If you are based in the United States and would like more information about your EEO rights under the law, please click here.
+Zendesk endeavors to make reasonable accommodations for applicants with disabilities and disabled veterans pursuant to applicable federal and state law. If you are an individual with a disability and require a reasonable accommodation to submit this application, complete any pre‑employment testing, or otherwise participate in the employee selection process, please send an e‑mail to with your accommodation request.
+#J-18808-Ljbffr",https://au.jora.com/job/Architect-a430e0822fc3d14b9e25ce12bc1c6d0e,ML Engineer,New South Wales,2026-06-12 21:44:43
+c94da9e7-30d9-49b0-8a0a-fd6bacbf5a47,Security Engineer - AI & ML,Talent International,Sydney NSW,2026-06-01,"Talent International, a leading Australian recruitment firm, have been engaged by our long-standing client, an Australian-founded leader in data science and advanced analytics, to hire a Security Engineer – AI & ML Security.
+This organisation is investing heavily in AI and building a practical, engineering-led AI security capability to support secure, large-scale adoption.
+Role Details
+Role Title: Security Engineer – AI & ML Security
+Contract Length: Initial 12 month contract (highly likely to extend or convert to permanent)
+Location: Eveleigh, Sydney (3 days in office – Tue-Thurs)
+Start Date: ASAP
+Interview Process: 2-stage (technical + behavioural)
+The Opportunity
+This is a hands-on security engineering role focused on securing real AI systems as they’re being built and rolled out across the business.
+You’ll work closely with engineering and data teams to embed security into how things are developed and deployed – not sit on the sidelines writing policy.
+You will:
+Work with teams to secure AI and application use cases as they’re designed and built
+Conduct threat modelling and identify practical risks across new features and systems
+Implement security controls and guardrails for AI tools (LLMs, internal platforms, ML pipelines)
+Embed security into CI/CD pipelines, cloud environments, and deployment workflows
+Contribute to the safe rollout of AI across the business
+Stay close to emerging risks and apply pragmatic, real-world security solutions
+What We’re Looking For
+We’re looking for someone hands-on and technical, not purely strategic.
+Strong security engineering foundation (AppSec, cloud security, or similar)
+Experience working in DevOps / DevSecOps environments
+Solid understanding of cloud platforms (AWS or GCP)
+Experience with CI/CD pipelines and secure deployment practices
+Comfortable doing threat modelling (STRIDE or similar approaches)
+Exposure to AI is a bonus – interest in learning is more important
+Why This Role
+Work on real AI systems, not theoretical security frameworks
+Strong focus on building and implementing, not just advising
+Be part of a major AI rollout across the business
+Access to modern tech stack and evolving AI tooling
+Strong engineering culture with close collaboration across teams
+Genuine work-life balance (no expectation beyond ~5pm)
+Clear pathway to a long-term / permanent opportunity
+To Apply
+If this sounds like your next opportunity or you would like to hear more, please apply now and submit your resume.",https://au.jora.com/job/Security-Engineer-aeaf8b3b0ae9394258f175caa594482d,ML Engineer,New South Wales,2026-06-12 21:44:45
+2d7c8710-3545-4bcc-b533-29993dff547e,Security Engineer - AI & ML,Talent Corp,Redfern NSW,2026-05-31,"Talent International, a leading Australian recruitment firm, have been engaged by our long-standing client, an Australian-founded leader in data science and advanced analytics, to hire a Security Engineer - AI & ML Security.
+This organisation is investing heavily in AI and building a practical, engineering-led AI security capability to support secure, large-scale adoption.
+Role Details
+Role Title: Security Engineer - AI & ML Security
+Contract Length: Initial 12 month contract (highly likely to extend or convert to permanent)
+Location: Eveleigh, Sydney (3 days in office - Tue-Thurs)
+Start Date: ASAP
+Interview Process: 2-stage (technical + behavioural)
+The Opportunity
+This is a hands-on security engineering role focused on securing real AI systems as they're being built and rolled out across the business.
+You'll work closely with engineering and data teams to embed security into how things are developed and deployed - not sit on the sidelines writing policy.
+You will:
+Work with teams to secure AI and application use cases as they're designed and built
+Conduct threat modelling and identify practical risks across new features and systems
+Implement security controls and guardrails for AI tools (LLMs, internal platforms, ML pipelines)
+Embed security into CI/CD pipelines, cloud environments, and deployment workflows
+Contribute to the safe rollout of AI across the business
+Stay close to emerging risks and apply pragmatic, real-world security solutions
+What We're Looking For
+We're looking for someone hands-on and technical, not purely strategic.
+Strong security engineering foundation (AppSec, cloud security, or similar)
+Experience working in DevOps / DevSecOps environments
+Solid understanding of cloud platforms (AWS or GCP)
+Experience with CI/CD pipelines and secure deployment practices
+Comfortable doing threat modelling (STRIDE or similar approaches)
+Exposure to AI is a bonus - interest in learning is more important
+Why This Role
+Work on real AI systems, not theoretical security frameworks
+Strong focus on building and implementing, not just advising
+Be part of a major AI rollout across the business
+Access to modern tech stack and evolving AI tooling
+Strong engineering culture with close collaboration across teams
+Genuine work-life balance (no expectation beyond ~5pm)
+Clear pathway to a long-term / permanent opportunity
+To Apply
+If this sounds like your next opportunity or you would like to hear more, please apply now and submit your resume.",https://au.jora.com/job/Security-Engineer-51a05691e379939d70d4c7e55e29de77,ML Engineer,New South Wales,2026-06-12 21:44:47
+9a7cae7c-f3c2-476b-8989-36ac4f489b27,Platform Engineer / Operations Engineer - (ML / AI),Nearmap,Barangaroo NSW,2026-05-13,"Company Description
+Property intelligence is reshaping how the world understands the built environment, and Nearmap is driving that. We put powerful aerial imagery, AI-driven analytics, and geospatial tools into the hands of the people who plan, build, insure, and govern the places we all live and work. Our technology turns property uncertainty into decisive action, and our culture brings out the best in the people who build it.
+Job Description
+To help us scale the AI systems behind that intelligence, we're looking for a Senior MLOps Engineer to join our  Platform team in Sydney.
+This is a genuine opportunity to own greenfield platform work at serious scale. Nearmap is one of the top three AWS users in the APAC region. The systems you'll build aren't theoretical — they're processing aerial imagery across Australia, the US, and Canada, and serving AI models to real customers at high concurrency.
+You'll sit between traditional DevOps and the new world of AI engineering — which means this role suits someone with a strong back-end and platform engineering foundation who is ready to grow their career into AI, or who is already making that transition. AI experience is a bonus, not a barrier to entry — we can coach that side as a team.
+🔹 What you'll be doing
+You'll own projects end to end — from architecture and design through to implementation, delivery, and production operations. That kind of trust and autonomy is real here, not a recruitment line.
+Day to day that looks like:
+Designing and building scalable ML infrastructure — large-scale batch inference on EKS, real-time model serving via Ray Serve, and GPU-accelerated distributed training on GCP and AWS
+Building the LLM platform that will underpin Nearmap's next generation of generative AI products — including deployment, governance, experimentation, and cost optimisation across CPU/GPU workloads
+Owning developer experience for AICV engineering teams — CI/CD pipelines, Docker tooling, ArgoCD, W&B, and Arize AI
+Driving reliability and observability across production ML systems with real SLAs and SLOs
+Contributing production-quality Python to shared platform libraries and services
+Playing a tech lead role on your primary project, with advisory exposure across others
+Engaging directly with ML tooling vendors including AWS, GCP, Weights & Biases, Confluent, and Arize AI
+The teams depending on your platform include Model R&D, Computer Vision, Insurance Data Science, Agentic AI, and AI Map Data.
+Qualifications
+What we're looking for
+Must-haves:
+Production experience building and operating Kubernetes-based platforms (EKS/GKE) at scale
+High-scale, high-concurrency API development and operation in production environments
+Real operational mindset: you've managed systems with SLAs and SLOs and stayed close through incidents
+Strong DevOps fundamentals — CI/CD, infrastructure-as-code, deployment pipelines
+Production-level Python — services and libraries, not just scripts
+Highly valued:
+Ray Serve or equivalent real-time model serving experience
+LLM or generative AI platform work in production (beyond PoC)
+ML observability tooling — Arize AI, Evidently, Prometheus/Grafana
+Infrastructure-as-code with Terraform
+Experience at terabyte or petabyte scale
+GPU/CPU cost optimisation
+A degree in computer science, engineering, mathematics, or a related field is welcome — equivalent practical experience is equally valued.
+This role is based in our Barangaroo, Sydney office, with an expectation of at least two days per week on-site.
+This role is open to Australian citizens and permanent residents, or those with full working rights in Australia.
+Additional Information
+Some of our benefits
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role 
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+Working at Nearmap
+We move fast, we care about craft, and we're proud of what we're building. If you're energised by turning hard problems into real-world impact, we'd love to meet you.
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch. 
+Read the product documentation for Nearmap AI:
+https://docs.nearmap.com/display/ND/NEARMAP+AI
+For a deep dive into Nearmap AI, listen to AI Systems Senior Director Mike Bewley on the Mapscaping podcast https://mapscaping.com/blogs/the-mapscaping-podcast/collecting-and-processing-aerial-imagery-at-scale
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes.",https://au.jora.com/job/Platform-Engineer-b1596f65101b3a0d57b8db8c32334525,ML Engineer,New South Wales,2026-06-12 21:44:49
+374aa2f6-4a6f-4120-8c6e-01ca43a82183,Machine Learning Engineer,Xero,Sydney NSW,2026-06-09,"The role & impact
+At Xero, ML Engineers are the builders behind the intelligence. As an ML Engineer within the AI Products group, you will design and develop the infrastructure and services that power AI products reaching millions of customers every day. Working closely with Applied Scientists, you will help take models from research environments into reliable, scalable production systems — bridging the gap between experimentation and real-world impact.
+This is a role where the work you do genuinely matters. The systems you build sit at the heart of Xero's AI capabilities, helping small businesses save time, make better decisions, and focus on what they do best.
+The Team & How They Connect
+The AI Products group sits within Xero's Data & Science function and brings together ML Engineers and Applied Scientists focused on turning data into products that genuinely improve the day-to-day lives of small business owners. The team is globally distributed and works closely across disciplines — engineering, science, product, and analysis — so that AI capabilities move from research into the hands of customers effectively and responsibly. Collaboration and knowledge sharing are core to how this team operates.
+The team is currently working on
+A Python-based ML infrastructure built to support both research flexibility and production reliability, including tooling across MLFlow, TensorFlow, and PyTorch
+Data orchestration pipelines using Airflow and Prefect, with distributed processing workloads running on AWS EMR
+Scalable AI services that serve real-time product experiences for millions of Xero users
+The next generation of LLM-powered features, exploring how large language models can reduce toil and surface better insights for small businesses
+Where And How You Can Work
+Here are some of the things we are looking for
+Strong coding skills in Python and a solid grasp of system design principles for data and AI applications at scale
+SQL proficiency and familiarity with distributed processing frameworks such as Spark or Dask
+Hands-on experience with ML tooling — frameworks like MLFlow, TensorFlow, or PyTorch, and orchestration tools such as Airflow or Prefect
+The ability to communicate technical concepts clearly to both technical and non-technical audiences
+An interest in how LLM technologies can be applied to real product challenges, and a willingness to learn and experiment in this space
+Comfort working collaboratively across engineering and science disciplines, contributing to shared standards and practices
+Apply even if your experience isn't a perfect match! At Xero, we hire based on your skills, passion, and the unique perspective you can bring to enhance our culture and team.",https://au.jora.com/job/Machine-Learning-Engineer-ed7be38e0c24332a2e2b9089ab33f8a4,ML Engineer,New South Wales,2026-06-12 21:44:52
+f6e06622-352c-4b36-8c51-7fbac8f03b1d,Machine Learning Engineer (LLM/VLM) - Trust and Safety (Australia),TikTok,Sydney NSW,2026-04-13,"Responsibilities
+Building a world where people can safely discover, create and connect. The Trust & Safety (T&S) team at TikTok helps ensure that our global online community is safe and empowered to create and enjoy content across all of our applications. We have invested heavily in human and machine-based moderation to remove harmful content quickly and often before it reaches our general community.
+We are looking for people like you with solid experience in designing and deploying state-of-the-art models in the combination of NLP and CV related areas. This position will work with a team of excellent research scientists and machine learning engineers who can take initiatives, design and develop advanced machine learning solutions, and deploy them directly to TikTok's global platform. Responsibilities
+Build industry-leading content safety systems for TikTok;
+Develop highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies;
+Understand product objectives and improve trust and safety strategy and model's performance;
+Work with cross-functional teams to protect TikTok globally.
+Collaborate with data analysts to understand and find data patterns
+Qualifications
+Minimum Qualifications
+3+ years experience in one or more of the areas: machine learning, deep learning, computer vision, NLP, Audio, content understanding.
+Skilled in pre-training foundation technologies, including efficient training and pre-training as a service, downstream applications of NLP/CV/Video are preferred
+Proficient in deep learning frameworks such as PyTorch and TensorFlow, and programming languages such as python or java.
+Good programming skills in Python and similar languages, and a deep understanding of data structures and algorithms
+Good communication and teamwork skills, be passionate about learning new techniques and taking on challenging problems
+Preferred Qualifications
+Published papers in the top AI conferences or journals is a plus, including KDD, IJCAI, WWW, WSDM, ICML, NeurIPS, CVPR, ECCV, ICCV, ACL, etc.
+;
+Experience in trust and safety area is a plus
+3+ years of experience participating in large-scale online machine learning platforms are preferred",https://au.jora.com/job/Machine-Learning-Engineer-bc9c3258cfadce20ebdc0129fa665ec4,ML Engineer,New South Wales,2026-06-12 21:44:54
+24e272fc-73c9-4f6c-b586-93dfcfcd6ffc,Staff ML Engineer,Buildkite,Sydney NSW,2026-05-13,"About Buildkite
+Buildkite's CI platform is trusted by the world's leading engineering teams, shipping software to over 1,000,000,000 daily users.
+Job Overview
+We're hiring a Staff Engineer (ML) to join our Test Engine team. In this role, you'll define and lead the technical strategy for machine learning within Test Engine — specifically, building the models and infrastructure behind predictive test selection: using code changes to determine which tests actually need to run.
+Staff Engineers at Buildkite are hands-on technical leaders. You'll influence how we design, build, and scale systems while supporting other engineers to deliver their best work. You'll be the most senior ML practitioner in the company, setting the technical direction for how we approach test selection and establishing the patterns and infrastructure that the broader ML effort builds on.
+🔧 About the Team
+The Test Engine team helps engineering teams ship faster by giving them visibility and control over their test suites. Today, that means real-time flaky test detection and management, intelligent test splitting across parallel jobs, and performance analytics and tracing — all working across any CI/CD platform, not just Buildkite Pipelines.
+Test Engine already ingests billions of test runs. We have deep visibility into test suites, codebases, and the relationships between them. The next step is using that data to answer a fundamental question: for a given code change, which tests are most likely to fail?
+We believe the industry is moving away from running full test suites on every change. The teams that can shift their outer testing loop into a fast, precise inner loop — running only the tests that matter — will ship value to their customers dramatically faster. For many of our customers, that speed is existential. Switching costs are low, competition is fierce, and the teams with faster feedback loops win.
+This is where ML comes in. If we can model the relationship between code changes and test failures, we can give engineering teams a fundamentally faster development cycle. We're not trying to optimise individual tests — we're trying to build a generalised solution to test selection that works across codebases, frameworks, and languages.
+🚀 What You'll Do
+Own Technical Direction for ML in Test Engine
+Lead and define the ML strategy for predictive test selection — from early experimentation through to models running reliably in production at scale
+Lead the technical investigation into how we build a generalised test selection model, and shape the approach based on what the data tells you
+Lead the design of the ML architecture end-to-end: feature engineering from code changes and test history, model training and evaluation, serving infrastructure, and feedback loops for continuous improvement
+Drive key decisions around model operationalisation — latency constraints (test selection has to be fast enough to sit in the critical path), prediction accuracy trade-offs, and graceful degradation when confidence is low
+Shape how ML capabilities integrate with Test Engine's existing data infrastructure — billions of ingested test runs, test-to-code mapping, and the intelligent splitting engine
+Build and Scale the ML Platform
+Build the ML platform layer so that getting a model into production is fast and repeatable
+Design, build, and maintain the data pipelines that feed ML workloads — connecting code change signals with test execution history at scale
+Train, evaluate, and deploy models, taking ownership through to monitoring and retraining in production
+Instrument production models with observability metrics: prediction accuracy, latency, coverage, false negative rates, and drift detection
+Solve the hardest technical challenges at the intersection of code analysis and test data — feature extraction from diffs, generalisation across languages and frameworks, and handling the cold-start problem for new tests and repositories
+Lead and Unblock
+Investigate and resolve complex performance and reliability issues across the data and ML stack
+Share knowledge and drive engineering best practices across teams through documentation, mentorship, and pairing
+Support the wider engineering organisation by contributing to cross-team tooling, infrastructure, and frameworks
+Communicate trade-offs effectively and build alignment around technical decisions
+Work closely with customers to understand how test selection fits into their development workflows, and ensure the product delivers real impact
+🎨 Skills & Experience We Value
+Technical Expertise
+Deep proficiency in Python, with strong experience building production ML systems end-to-end
+Proven experience designing and operating ML infrastructure at scale — model registries, feature stores, serving layers, experiment tracking, or similar
+Strong experience with data processing at scale — whether batch or streaming frameworks (Spark, Flink, or similar)
+Deep proficiency in SQL
+Comfort working in cloud environments (AWS) and with containerised workloads (Docker, Kubernetes)
+In short, we'd expect equal comfort and high level capability in the end to end process from designing and building models through to deploying them.
+ML & Domain Experience
+Hands-on experience training, evaluating, and deploying ML models in production — you're a practitioner, not only an infrastructure builder
+Experience with classification, ranking, or prediction problems where the signal-to-noise ratio is challenging — test selection shares characteristics with anomaly detection, change-point detection, and predictive filtering
+Track record of building ML capabilities that scaled beyond a single use case — not just one-off models but repeatable, generalised approaches
+Experience with feature engineering from structured and semi-structured data (code diffs, execution logs, dependency graphs, or similar)
+Experience instrumenting production models with observability: accuracy, latency, coverage, drift
+Collaboration and Communication
+Excellent written and verbal communication skills, especially in a remote-first environment
+Ability to distil complex technical concepts into clear explanations for diverse audiences
+A collaborative, pragmatic mindset — balancing technical quality with business context
+Comfortable mentoring engineers and leading technical discussions across teams
+Proven ability to build alignment across teams and influence technical direction without authority
+Nice to Have
+Experience with code analysis, static analysis tools, or building features from source code structure
+Familiarity with CI/CD systems, developer tooling, or test infrastructure
+Experience with Ruby on Rails, React, GraphQL, or Go
+Background in search ranking, recommendation systems, or other domains where you're predicting relevance from sparse signals
+Experience working with test frameworks or test execution data
+✨ Why Join Buildkite
+At Buildkite, we value kindness, autonomy, and collaboration. You'll be joining a remote-first company where your work directly helps some of the world's best engineering teams build and ship software faster and more safely.
+Competitive compensation, including salary, equity, and benefits package
+Flexible, remote-first culture (Remote in the ANZ & PST Regions)
+Meaningful technical challenges at scale
+Opportunities for professional growth, technical leadership, and cross-team influence
+A collaborative, inclusive, and innovative culture where your ideas make a real impact
+🌈 Equal Opportunity Employer
+At Buildkite, we value diversity and celebrate all types of skills, backgrounds, and experiences. We’re dedicated to fostering an inclusive environment and providing reasonable accommodations throughout our recruitment process.
+If you need any accommodations or support during the application or interview process, please reach out to us at **************@buildkite.com.",https://au.jora.com/job/Staff-ML-Engineer-a60c94eb7f5c6d850d68b556640311c4,ML Engineer,New South Wales,2026-06-12 21:44:56
+89c58422-2d9c-4bbe-84f3-88c68a06346c,Senior Software Engineer (ML),Lookahead,Sydney CBD NSW,2026-05-18,"The Company
+Join a small, senior team of software engineers in a well funded company, reporting directly to the engineering co-founders. Own features and help steer the direct of our ML product used by companies in Australia and the UK. And work on a product that users love. 
+About you
+You're a senior software engineer who has shipped ML-powered features to real users at a commercial product company, and you can talk concretely about how they worked and what you'd do differently
+You have genuine LLM intuition: when to use RAG vs prompting vs fine-tuning, how to improve output quality, how to build eval pipelines that tell you something meaningful
+Python is your primary language and you write clean, production-grade code with strong testing habits
+You're at home working closely with product and design, not just in the codebase
+You enjoy going deep on hard problems rather than jumping between shiny things
+Familiarity with AWS Bedrock or the Hugging Face ecosystem is a plus
+The offer
+Approx. $160k–220k+ base + super (depending on experience)
+Remote first, anywhere in Australia, or hybrid in Melbourne if you're local
+Five weeks annual leave
+Flexible hours, output over face time
+Home office budget and professional development program
+Equity conversation at 12 months
+
+Debbie Teakle
+www.lookahead.com.au",https://au.jora.com/job/Software-Engineer-b9b0b8ed51ee297ec41f36eefe876d98,ML Engineer,New South Wales,2026-06-12 21:44:58
+fbc58c54-6982-4ad2-b0c6-4a7d131223b4,MLOps Engineer,Akuna Capital,Sydney NSW,2026-05-17,"About Akuna:
+Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialise in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models. At Akuna we have a flat structure, where the best idea wins.
+Our Founding Partners, including Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore and London.
+What you’ll do as a MLOps Engineer at Akuna:
+We are looking for an experienced MLOps Engineer to lead the direction of Akuna’s machine learning infrastructure and help enable the success of machine learning initiatives across the firm.
+This role will work closely with teams across technology, quantitative research, and trading to support the full machine learning lifecycle: from research and experimentation through to deployment, monitoring, and ongoing improvement. You will help ensure current ML initiatives are successful while defining a clear roadmap toward scalable, reliable, and best-in-class ML infrastructure and practices.
+In this role, you will
+Design, own and maintain the machine learning infrastructure, partnering with cross functional teams across the lifecycle of key ML initiatives.
+Own and drive the roadmap for Akuna’s machine learning infrastructure, tooling, and processes.
+Take a hands-on role designing, building, and maintaining platforms that enable efficient model development, training, deployment, monitoring, and governance.
+Establish best practices for reproducible ML workflows, model lifecycle management, CI/CD, observability, and production reliability.
+Operate and continuously improve ML infrastructure to ensure it is scalable, performant, reliable, and easy for researchers and engineers to use.
+Provide technical leadership and guidance to engineering and research teams adopting ML infrastructure capabilities.
+Requirements:
+Bachelor’s degree or higher in Computer Science, Engineering or a related technical field.
+Experience building, deploying, or operating machine learning infrastructure in production environments.
+Hands-on experience with ML infrastructure or data platforms such as Databricks or Spark.
+Strong programming skills in Python, C++, or both in Linux-based environments.
+Effective communication skills, with the ability to partner effectively across engineering, research, and business teams.
+Demonstrated ownership, technical leadership, and ability to define and execute a roadmap.
+Please note: If you apply to multiple roles, you may be asked to complete multiple coding challenges and interviews.",https://au.jora.com/job/MLOps-Engineer-922aa83d555fd6840697f8642f7bcb4a,ML Engineer,New South Wales,2026-06-12 21:45:01
+da6471db-8ae1-4c4e-bade-29eb5a47a530,Machine Learning Engineer,Alignerr,Sydney NSW,2026-05-20,"Machine Learning Engineer (AI Data Trainer)
+About The Role
+What if your technical expertise could directly shape how the world's most advanced AI systems reason through complex problems? We're looking for Machine Learning Engineers to help train cutting-edge large language models — not by writing model code, but by doing something equally powerful: teaching AI how to think.
+This is a fully remote, flexible contract role. You'll create structured reasoning traces that capture step-by-step planning, tool use, and decision-making — the kind of high-quality training data that makes the difference between an AI that guesses and one that genuinely reasons.
+Organization: Alignerr
+Type: Hourly Contract
+Location: Remote
+Commitment: 10–40 hours/week
+What You'll Do
+Author clear, structured reasoning traces for complex technical tasks — showing how an expert would plan, reason, and act
+Document step-by-step decision-making processes that capture real-world logic and tool use
+Create high-quality training data that demonstrates reliable, grounded AI reasoning
+Evaluate and iterate on your outputs to meet rigorous quality standards
+Work independently and asynchronously — fully on your own schedule
+Who You Are
+Background in Machine Learning, Computer Science, or a closely related technical field
+Able to break down complex logical and technical problems into clear, structured steps
+Strong analytical thinker with a methodical, detail-oriented approach
+Confident written communicator — you can explain technical reasoning clearly and precisely
+Self-motivated and reliable when working independently without supervision
+Nice to Have
+Prior experience with data annotation, data quality, or AI evaluation workflows
+Familiarity with how LLMs are trained or fine-tuned
+Experience working with APIs, coding assistants, or AI-powered tools
+Background in software engineering, data science, or applied research
+Why Join Us
+Work on cutting-edge AI projects alongside leading research labs
+Fully remote and flexible — work when and where it suits you
+Freelance autonomy with the structure of meaningful, task-based work
+Get direct, hands-on exposure to how advanced LLMs are built and trained
+Make a tangible impact on AI systems used by millions of people worldwide
+Potential for ongoing work and contract extension as new projects launch",https://au.jora.com/job/Machine-Learning-Engineer-6ac69b0ffc96ca9cdceef21324ceca01,ML Engineer,New South Wales,2026-06-12 21:45:03
+6a173d0a-e824-4cd1-b061-6358c0aea063,Senior Machine Learning Engineer - Multimodal Data,Canva,Sydney NSW,2026-04-13,"Company Description Join the team redefining how the world experiences design Hiya, g'day, mabuhay, kia ora, 你好, hallo, vítejte! Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+Where and how you can work The buzzing Canva London campus features several buildings around beautiful leafy Hoxton Square in Shoreditch. While our global headquarters is in Sydney, Australia, London is our HQ for Europe, with all kinds of teams based here, plus event spaces to gather our team and communities.
+You'll experience a warm welcome from our Vibe team at front of house, amazing home cooked food from our Head Chef and a variety of workspaces to hang out with your team mates or get solo work done. That said, we trust our Canvanauts to choose the balance that empowers them and their team to achieve their goals and so you have choice in where and how you work. Job Description
+At Canva, our mission is to empower the world to design. We’re building AI that feels magical and lands real impact for millions of people
+helping anyone create with confidence.
+We're looking for a Machine Learning Engineer to own the data foundations that power our multimodal agent research—building the pipelines, datasets, and tooling that turn ambitious research ideas into trainable reality. About the team We explore multimodal agentic architectures, build scalable training and evaluation loops, and partner closely with product and platform teams to turn breakthroughs into delightful product features.
+We are a cutting-edge post-training team, developing new multimodal agentic systems. We work on all topics of multimodal modelling, post-training and design agents, we build scalable training and evaluation loops, and partner closely with product and platform teams to turn breakthroughs into delightful product features. About the role
+You'll be responsible for the data lifecycle that fuels our agent research: from collection and curation through to preprocessing, quality assurance, and delivery into training pipelines. You'll work closely with research scientists to understand what data is needed, then design and build the systems to make it happen—reliably and at scale. You'll have significant autonomy over how data problems get solved, while aligning on what problems matter most with the broader team.
+What you'll do Design and build data pipelines for agent training: collection, filtering, deduplication, formatting, and versioning across text, image, and multimodal sources. Build and maintain infrastructure for efficient data loading, storage, and retrieval at scale (S3, distributed systems, streaming pipelines). Collaborate with research scientists to translate research requirements into concrete data specifications, and iterate as experiments reveal new needs.
+Create evaluation datasets and benchmarks in collaboration with researchers—curating task distributions that surface real failure modes. Develop tooling for dataset construction—including human annotation workflows, synthetic data generation, and preference data collection for RLHF/DPO-style training. Own data quality: build validation frameworks, monitor for drift and contamination, and establish standards that make datasets trustworthy and reproducible.
+Document datasets thoroughly: provenance, known limitations, intended use cases, and versioning history. Implement comprehensive test coverage for data pipelines and ML workflows, ensuring reliability and catching regressions early. Elevate codebase quality through code reviews, refactoring, and establishing engineering best practices that help research velocity scale sustainably.
+Contribute to team roadmaps by identifying data bottlenecks and proposing solutions that unblock research velocity. You're likely a match if you have Strong software engineering skills in Python, with experience building production-grade data pipelines and ML DevOps. Practical experience with prompt engineering—designing, testing, and refining prompts for reliable LLM/VLM outputs.
+Experience with ML data workflows: large-scale data processing and loading (Ray, or similar), data versioning, and format considerations for training (tokenization, batching, sharding). Hands-on experience working with data pipelines for large-scale distributed ML training runs. Familiarity with annotation tooling and human-in-the-loop data collection (Label Studio or internal systems).
+Understanding of ML training requirements—you know what ""good data"" looks like for LLM/VLM fine-tuning and can anticipate downstream issues. Experience loading and writing large datasets to/from cloud infrastructure (AWS) and distributed storage systems. Strong communication skills: you can work with researchers to scope ambiguous problems and translate needs into actionable plans.
+A collaborative approach, comfortable taking ownership and iterating quickly. Nice to have Experience with preference data collection for RLHF or reward modelling. Familiarity with multimodal data (image-text pairs, video, design assets).
+Experience building synthetic data generation pipelines using LLMs. Background in data quality metrics and monitoring systems. Contributions to dataset releases or benchmarks in the ML community.
+Additional Information What's in it for you? Achieving our crazy big goals motivates us to work hard
+and we do
+but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too.
+We also offer a range of benefits to set you up for every success in and outside of work. Here's a taste of what's on offer: Equity packages
+we want our success to be yours too Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally Check out lifeatcanva.com for more info. Other stuff to know We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture.
+When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process. We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above
+we still want to hear from you!
+Please note that interviews are conducted virtually.",https://au.jora.com/job/Machine-Learning-Engineer-2ecf974d2479fb7a868d16afc24358f1,ML Engineer,New South Wales,2026-06-12 21:45:05
+a2d401fd-4a2a-400e-b6c2-30399df38dd8,Staff Machine Learning Engineer,Xero,Sydney NSW,2026-06-09,"The Role
+The role & impact
+At staff level, this role is about more than building ; it's about raising the bar for how Xero's AI systems are designed and delivered. As a Staff ML Engineer within the AI Products group, you will set the technical direction for the infrastructure and services that underpin AI products used by millions of customers globally. You will work at the intersection of research and production, making principled decisions about architecture, tooling, and approach that ripple across the team and beyond.
+This is a role for someone who finds just as much satisfaction in enabling others to do their best work as they do in solving hard technical problems themselves. You will shape how the team approaches scale, reliability, and technical debt and your influence will be felt in both the systems you help build and the people you help grow.
+The team & how they connect
+The AI Products group sits within Xero's Data & Science function and brings together ML Engineers and Applied Scientists focused on turning data into products that genuinely improve the day-to-day lives of small business owners. The team is globally distributed and works closely across disciplines - engineering, science, product, and analysis, so that AI capabilities move from research into the hands of customers effectively and responsibly. Collaboration and knowledge sharing are core to how this team operates.
+The team is currently working on
+A Python-based ML infrastructure built to support both research flexibility and production reliability, including tooling across MLFlow, TensorFlow, and PyTorch
+Data orchestration pipelines using Airflow and Prefect, with distributed processing workloads running on AWS EMR
+Scalable AI services that serve real-time product experiences for millions of Xero users
+The next generation of LLM-powered features, exploring how large language models can reduce toil and surface better insights for small businesses
+Where and how you can work
+Solid foundations in Python and system design at scale, with SQL proficiency and a working understanding of distributed processing frameworks such as Spark or Dask
+A track record of setting technical standards and influencing engineering practice across teams, not just within your own squad
+Confidence communicating complex technical ideas to a range of audiences, from fellow engineers to business stakeholders
+Hands-on familiarity with the ML tooling ecosystem frameworks like MLFlow, TensorFlow, or PyTorch, and orchestration tools like Airflow or Prefect
+Curiosity about and practical interest in LLM technologies, and how they can be applied to real product problems
+A genuine interest in mentoring and developing others, with the ability to bring people along on technical decisions rather than just making them
+Apply even if your experience isn't a perfect match! At Xero, we hire based on your skills, passion, and the unique perspective you can bring to enhance our culture and team.",https://au.jora.com/job/Machine-Learning-Engineer-963284ff43d5248a430c4b1f8fcc4a68,ML Engineer,New South Wales,2026-06-12 21:45:08
+bb1e5f4a-3420-4d9e-bc77-14fe822d12a2,AI/ML Security Architect and Engineer,IBM,Sydney NSW,2026-05-24,"Required technical and professional expertise
+Architect and implement scalable Generative AI features, including agentic workflows, conversational AI, and autonomous agents.
+Develop and deploy machine learning models for threat detection, anomaly detection, malware classification, and behavioural analysis.
+Apply best practices in AI security, including mitigation of hallucinations, prompt injection, and bias.
+Identify and mitigate risks related to adversarial machine learning, model inversion, data poisoning, and prompt injection.
+Analyse large-scale security datasets (e.g., logs, network traffic, endpoint telemetry) to identify patterns and build predictive models.
+Research and implement AI and Machine Learning techniques to improve detection accuracy and reduce false positives.
+Design and implement security controls for AI/ML systems, including model training, inference, and data pipelines.
+Collaborate with security analysts and incident response teams to integrate AI tools into existing workflows.
+Collaborate with data scientists, ML engineers, and DevOps teams to integrate security into the AI/ML lifecycle.
+Build automation pipelines for data preprocessing, model training, evaluation, and deployment.
+Monitor model performance and retrain models as needed to adapt to evolving threats.
+Stay current with emerging threats, vulnerabilities, and research in AI security and adversarial machine learning.
+Ensure compliance with data privacy regulations (e.g., GDPR, HIPAA) and AI governance frameworks.
+Ensure AI systems are explainable, auditable, and aligned with ethical and regulatory standards.
+Experience in full AI project lifecycle, from research and prototyping to deployment in production environments.
+Familiarity with Agile development methodologies
+Proficiency in Python and ML libraries such as TensorFlow, PyTorch, Scikit-learn, or similar.
+Experience with AI and/or data governance
+Experience with building automation solutions with AI/ML.
+Experience with Ansible, Red Hat OpenShift, Kubernates and CI/CD Pipelines.
+Experience with secure MLOps practices and tools (e.g., MLflow, Kubeflow, SageMaker).
+Experience with LangChain, OpenAI APIs, or similar LLM frameworks (highly desirable).
+Knowledge of RAG (Retrieval-Augmented Generation), vector databases, and custom embeddings.
+Experience with vector DB’s or open file formats like parquet, avro or orc
+Strong understanding of cybersecurity principles, threat landscapes, and common attack vectors.
+Experience with threat modeling and securing cloud-based AI infrastructure (e.g., AWS, Azure, GCP).
+Experience with data engineering and working with large-scale datasets.
+Familiarity with cloud platforms (AWS, Azure, GCP) and security tools (SIEM, EDR, IDS/IPS).
+Excellent problem-solving and communication skills.
+Knowledge of AI ethics, fairness, and explainability.
+ABOUT BUSINESS UNIT
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+YOUR LIFE @ IBM
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+Are you ready to be an IBMer?
+ABOUT IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 500 companies relying on the IBM Cloud to run their business. 
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+OTHER RELEVANT JOB DETAILS
+For additional information about location requirements, please discuss with the recruiter following submission of your application.",https://au.jora.com/job/Security-Architect-7f1dec56b87c442d6f61759587f35019,ML Engineer,New South Wales,2026-06-12 21:45:10
+e4427a3c-d10b-4cdd-a861-b8e99a0d730e,Machine Learning Engineering Manager,iCare NSW,City of Sydney NSW,2026-06-02,"Key Highlights
+Deliver Data, Machine Learning and AI Models
+Hybrid role (Kent Street, Sydney), salary negotiable
+About the Role
+The Machine Learning Engineering Manager is the foundational engineering lead within icare’s Data Science and AI function. The role begins as a hands‑on technical lead responsible for establishing robust ML engineering, MLOps and LLMOps practices that enable secure, reproducible, and reliable deployment of AI systems.
+Benefits
+A corporate wellbeing program with subsidised gym membership, free flu vaccinations and health check programmes
+17.5% annual leave loading
+icare day – access to an extra day’s leave
+Comprehensive learning and development support aligned to icare’s Core Capabilities
+Our People Awards – On‑the‑spot Recognition, Quarterly Values Awards & Our People Annual Awards
+Access to our Employee Assistance Program
+Duties
+Deliver data and Machine Learning and AI models that align to the overall technical, data and AI strategy, making trade‑offs where appropriate
+Deliver coherent and technically feasible ML, LLM and AI system designs with multiple components interacting across API or system boundaries
+Design ML, LLM and AI system metrics and an implementation and monitoring plan to ensure ML, LLM and AI systems are performant through the lifetime of the system
+Identify and resolve technology limitations, designing sustainable long‑term solutions that minimise risk and maximise value
+Drive innovation by formulating complex business objectives into intelligent and scalable ML, LLM or AI solutions
+Drive the creation and maintenance of standards to ensure quality delivery of the ML, LLM and AI solutions across the organisation
+Formulate plans to improve ML Engineer and Data Scientist efficiency as measured by cycle time, or other similar measurements
+Provide constructive feedback and hands‑on technical guidance to members of the Data Science and Machine Learning engineering teams through the lifecycle of an ML, LLM or AI project
+Partner with the Head of Data Science and AI and the Data Science Manager to set the cultural tone for the team, supporting an environment of psychological safety, empathy and productivity
+Help the ML Engineering team build relationships across icare, creating connections across teams
+Structure the ML Engineering team so the right people are in the right roles with clearly defined responsibilities
+Foster the career growth of ML Engineers and Data Scientists through coaching, mentoring and on‑the‑job experiences
+Interview and assess candidates to help us build a diverse and talented ML Engineering team
+Partner with Data Platforms and Insights, Architecture, Security, Privacy, and Governance to ensure ML, MLOps, LLMOps and practices align with enterprise standards
+Build deep cross‑functional relationships, facilitate the right conversations, balancing multiple perspectives, and engage in productive conflict with thoughtful questioning/challenging, disagreeing and committing when necessary to move decisions forward
+Advise on the technical ML, MLOps, LLMOps components of an enterprise level AI strategy
+Resolve cross‑team dependencies to ensure the successful execution of ML, LLM, and AI projects
+Skills & Experience
+Minimum 8 years’ experience in Machine Learning Engineering, Machine Learning Operations, or DevOps roles
+Experience leading or mentoring teams
+Experience deploying ML systems into production environments (cloud or hybrid)
+Experience collaborating with Data Scientists, Architects, Security, Privacy, Governance and Platform teams
+Experience with AWS and/or Snowflake-based ecosystems
+Experience working in Agile Scrum environments and using work‑tracking tools such as JIRA
+Culture
+We know our strength comes from the diversity of our people and would encourage people with different experiences and backgrounds to apply. We are committed to our people’s development so the people of NSW can thrive.
+About the Company
+We care for the people of NSW, building confidence and trust so our communities can thrive. We make the complex simple, so our schemes deliver better outcomes for people and communities. Whether a person is severely injured in the workplace or on our roads, icare supports their long‑term care needs to improve quality of life, including helping people return to work.
+Please note that you must be an Australian citizen, permanent resident of Australia, New Zealand citizen with a current New Zealand passport or have unrestricted working rights to apply for this role.
+#J-18808-Ljbffr",https://au.jora.com/job/Engineering-Manager-147437e1261c1b1853630b3f2a22677c,ML Engineer,New South Wales,2026-06-12 21:45:12
+c9c93e66-0c75-46cb-b9f1-4e8796079b8c,Machine Learning Engineer,Timescapes Ltd,City of Sydney NSW,2026-06-02,"Timescapes is looking for a Machine Learning Engineer to join our small, but growing team of high-performers. We're after someone who approaches problems from first principles, honing in on underlying causes and diligently iterating towards the best solution. We believe that great products feature incredible experiences that customers never want to stop using.
+About Us
+Founded in New Zealand in 2017, Timescapes is a visual progress tracking solution for complex construction projects – our mission is to simplify construction through shared visibility. Customers value Timescapes because it helps them stay on schedule, validate construction claims and communicate progress more effectively.
+We're a rapidly growing company, and are used by some of the largest construction firms across Australia, Canada, New Zealand and the United States. We're deliberate and thoughtful in everything that we do, and we emphasise awareness, speed and quality in our approach to product development.
+About The Role
+As our second dedicated ML / AI hire at Timescapes, you'll be working closely with our product and engineering team to develop ML models (computer vision) and incorporate them into our existing (and new) product capabilities. Key aspects of the role include:
+Working closely with other members of the AI / ML team to design, develop, integrate and support machine learning models, to solve specific construction problems related to tracking activity and progress on civil, institutional and commercial sites
+Running experiments with LLMs and other large-scale generative AI models during problem and solution exploration, and determining when to invest in custom development vs leveraging off-the-shelf models
+Developing software to manage the ML lifecycle, including data management, labeling and training
+Sourcing training data, curating it for quality, and determining how best to integrate it into the ML lifecycle
+Requirements
+Essential Skills / Qualifications
+Bachelor's degree in Computer Science, Engineering, or a related field
+Experience with the development and delivery of production-level software systems that feature critical machine learning components
+Experience with the development of computer vision models, from the data side as well as the model side
+Experience with end-to-end ML operations, including data acquisition, labeling, model training, pipeline design + management, continuous integration, model versioning, and performance monitoring
+Experience with leveraging LLMs, LVMs and multimodality models to augment product capabilities, including strong experimentation skills, and the ability to combine off-the-shelf commercial model capabilities with custom ML models
+Familiarity with methods for ML model validation and verification
+Experience deploying ML inference infrastructures for systems with high throughput
+Ability to develop ML-enabled product capabilities in the context of the entire SDLC, from initial concepts through detailed design, development, deployment and maintenance
+Other Preferred Skills / Qualifications
+Experience with deep learning frameworks e.g. PyTorch
+Familiarity with inference engines e.g. TensorRT
+Experience with developing edge ML applications
+Experience writing with .NET, C# and Python
+About You
+We want curious, driven and enthusiastic people who are motivated by the prospect of building solutions that endure. The people who thrive at Timescapes are critical thinkers who are not afraid to embrace the unconventional. If the following resonates with you, we should definitely chat:
+Value‑oriented: we're focussed on ensuring that Timescapes as a business gets genuine value from engineering investments. You'll be someone who sees methodologies, best practices and patterns as useful tools, but you don't blindly adopt them and never let them get in the way of great customer outcomes.
+Obsessed with the ""why"": you're someone who cares about the details, and you take pride in sharing your rationale for every decision you make. You question things that don't make sense, and you expect others to do the same
+All about the editing: when it comes to great solutions, we don't believe you generally nail it on the first attempt. You're someone who's not afraid to leave a lot of ideas on the cutting room floor, and you intuitively understand that the first release is just the beginning
+Adaptable and creative: as a small company doing ambitious things, we don't always have the right answer, and we know that what's worked in the past may not work in the future, but we're not deterred by the unknown, and we're excited about trying new things and finding our way through.
+Communication matters: in addition to communicating clearly and succinctly, you're also a natural relationship‑builder, and you're equally comfortable on Slack/email, video calls and in person
+Benefits
+This is your chance to help build something meaningful – technology that genuinely makes construction better while working with people who care about doing great work.
+We're at an exciting stage where your decisions will directly impact our trajectory as we scale globally.
+We offer
+Competitive compensation and equity package
+Health insurance
+5% kiwisaver contribution
+EAP & wellbeing support
+#J-18808-Ljbffr",https://au.jora.com/job/Machine-Learning-Engineer-541c5a5ccf39c3bba9621be968e312a9,ML Engineer,New South Wales,2026-06-12 21:45:14
+84d1a12f-1b1c-4fa8-9a78-80046037e03c,Data Scientist (GenAI / Machine Learning),Michael Page,City of Sydney NSW,2026-06-02,"Build real‑world GenAI & LLM solutions at scale
+Own end‑to‑end delivery in a high‑impact role
+About Our Client
+This not-for-profit organisation is a well-established entity in the technology space, known for its commitment to advancing knowledge and innovation. As a medium-sized organisation, it offers a collaborative and forward‑thinking environment that values expertise and practical solutions.
+Job Description
+Develop and implement machine learning models to solve real‑world challenges.
+Leverage Generative AI to drive innovation in data analysis and predictive modelling.
+Collaborate with cross‑functional teams to identify and address data‑related challenges.
+Conduct data preprocessing, cleaning, and transformation to ensure high‑quality inputs.
+Present insights and findings to stakeholders in a clear and actionable manner.
+Stay up‑to‑date with the latest advancements in the machine learning and AI technologies.
+Contribute to the development of scalable data pipelines and solutions.
+Ensure data security and compliance with organisational policies.
+The Successful Applicant
+Proven experience delivering production‑grade ML / AI solutions
+Strong skills in Python and SQL
+Commercial experience of working with Snowflake
+Hands‑on experience with LLMs / Generative AI
+Exposure to MLOps, CI/CD, and ML pipelines
+Experience with cloud platforms (Azure preferred, AWS/GCP also considered)
+Ability to work autonomously and communicate clearly with stakeholders
+What's on Offer
+Competitive salary package ranging from $126,065 to $142,171 AUD.
+17% superannuation contribution.
+Opportunity to work on innovative projects with real‑world impact.
+A supportive and collaborative work environment in Sydney.
+Fixed‑term contract with the chance to make a meaningful contribution to the not‑for‑profit sector.
+If you are passionate about leveraging Generative AI and machine learning to make a difference, we encourage you to apply for this exciting opportunity as a Data Scientist (GenAI / Machine Learning).
+#J-18808-Ljbffr",https://au.jora.com/job/Data-Scientist-752ec2e5e21dcbac80341a6011857f6e,ML Engineer,New South Wales,2026-06-12 21:45:17
+96e54c84-a945-4381-a1b7-a5b8308dc0f9,AI Architect,Virtusa,Sydney NSW,2026-05-26,"We are seeking an experienced AI/ML Engineer with a strong focus on Generative AI (Gen AI) to join our dynamic team. The ideal candidate will have a proven track record in developing and deploying AI/ML models, with a deep understanding of Gen AI technologies and their applications. This role requires a strategic thinker who can drive innovation and deliver high-quality solutions in a fast-paced environment.
+Responsibilities:Design, develop, and implement AI/ML models with a focus on Generative AI.Collaborate with cross-functional teams to identify business needs and translate them into technical requirements. Conduct research and stay updated on the latest advancements in AI/ML and Gen AI technologies. Optimize and fine-tune existing models for improved performance and scalability.
+Mentor junior team members and provide guidance on best practices in AI/ML engineering. Participate in code reviews and contribute to the development of technical documentation. Mandatory Skills:Strong expertise in Generative AI technologies and frameworks.
+Proficient in programming languages such as Python, R, or Java. Experience with machine learning libraries and tools (e.g., TensorFlow, PyTorch, Scikit-learn). Solid understanding of data structures, algorithms, and software engineering principles.
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) for deploying AI solutions. Preferred Skills:Familiarity with natural language processing (NLP) and computer vision techniques. Experience in working with large datasets and data preprocessing.
+Knowledge of MLOps practices for model deployment and monitoring. Strong analytical and problem-solving skills. Excellent communication and collaboration abilities.
+Qualifications: Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. A minimum of 10 years of experience in AI/ML engineering, with a strong emphasis on Generative AI. , LLM, RAG and Agentic AI",https://au.jora.com/job/AI-Architect-3d6393bc1f29989bb4de9142791e5a44,ML Engineer,New South Wales,2026-06-12 21:45:19
+04f2c4a1-38e2-42d3-9f1d-65fa681a3b6d,"Staff AI Engineer, Data Science",Future Secure AI,City of Sydney NSW,2026-06-02,"At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+Future Secure AI is a rapidly scaling frontier‑AI company co‑developed with one of the world’s largest financial institutions. We operate with startup speed and enterprise backing, building agentic AI Co‑workers—autonomous, reasoning‑capable systems designed to partner with humans and 10x organisational performance.
+Create AI Co‑workers that think, act, and collaborate—redefining how work gets done.
+We are expanding fast and seeking exceptional people to help build the future of autonomous AI.
+The Opportunity
+As a Staff Data Scientist, you will be a senior technical leader driving the development of agentic AI Co‑workers, multi‑step reasoning systems, and enterprise‑ready autonomous workflows. You will architect and deploy advanced LLM‑driven agents that plan, decide, and take action—safely, reliably, and at scale.
+You’ll shape the technical direction of our agentic AI platform, mentor emerging talent, and ensure our systems are robust, aligned, and capable of delivering high‑value outcomes in complex environments.
+Your work will directly influence the evolution of how humans collaborate with AI.
+What You’ll Do
+Design, build, and deploy agentic LLM‑driven systems with planning, tool‑use, workflow orchestration, and reasoning capabilities
+Apply machine learning and advanced analytics to power decision‑making within autonomous AI Co‑workers
+Enhance multi‑step reasoning quality, context management, and agent performance across real enterprise use cases
+Lead MLOps initiatives across evaluation, benchmarking, safety, and quality for autonomous systems
+Define long‑term strategy for agentic AI frameworks, governance, and scalable deployment patterns
+Collaborate with engineering, product, and executive teams to build production‑grade AI co‑workers used by global clients
+Mentor and uplift junior data scientists, raising the bar for scientific and engineering excellence
+About You
+You are an experienced Data Scientist with a strong record of delivering impactful ML systems and deep curiosity about the fast‑moving agentic AI and LLM ecosystem. You thrive in ambiguity, communicate clearly, and take a pragmatic approach to building real, production‑ready intelligence.
+You Bring
+A Master’s or PhD in a quantitative discipline
+Proven delivery of high‑impact machine learning solutions in complex environments
+Strong NLP foundations: transformers, LSTMs, CNNs, topic modelling, supervised NLP
+Hands‑on experience with LLM orchestration frameworks (LangChain, LlamaIndex), RAG, multi‑agent systems, or tool‑calling architectures
+Python focused on ML/AI and other languages
+Experience in software development is highly desired
+Ability to explain complex ideas clearly and influence cross‑functional stakeholders
+Curiosity, humility, and a strong sense of ownership
+Comfort operating in a high‑velocity, evolving environment
+Ability to attend our Sydney CBD office 1–2 days per week
+Why Join Us?
+A high-performance culture
+State‑of‑the‑art technology
+Experience world‑class leadership
+Scale of impact and purpose
+A competitive salary and a huge growth trajectory
+Work with the best in the industry
+Flexible work environment
+Diversity and creativity
+#J-18808-Ljbffr",https://au.jora.com/job/Staff-AI-Engineer-34505f3361212c99aed525e5382ea549,ML Engineer,New South Wales,2026-06-12 21:45:21
+d37086fb-b8d4-436a-83ad-48d0a603f1ae,Snr Machine Learning Engineer - AI Startup - Next Unicorn,TENAX TALENT,City of Sydney NSW,2026-06-02,"My client, a well-funded startup is seeking core 10x Machine Learning Engineers to join their team.
+This company is based in Sydney and supports Hybrid or Remote work options
+You will be working on problems and products that are changing the world for the better. My client is disrupting the Power and Electricity industry and was founded by an ex-Google Software Engineer. This is an exceptional opportunity for a highly motivated Senior Machine Learning Engineer to contribute to building products that create high-impact and real-world value for their customers.
+This is one of the hottest roles in technology, you will have the opportunity to work with some of the brightest software engineers in Australia - the team includes ex-Amazon, Google, Meta and Canva engineers.
+The successful candidate will have:
+Strong machine learning and software engineering experience (we are looking for someone to blend machine learning and software engineering)
+Strong deep learning experience is desirable (neural nets experience is imperative)
+Strong machine learning engineering, architecture and design experience
+Experience designing, implementing and evaluating models, agents and software protocols for Machine Learning
+Strong data structures and data engineering/architecture exp (NoSQL and SQL)
+Experience with implementing multi-threaded/concurrent/distributed software systems is a plus
+Happy to - work hard, on hard problems, on hard mode - no weekend work, but the team is all in
+This is an opportunity to work in a high-growth, fast-paced, startup environment. This role is very much hands-on and your work will be critical to the business's product and success.
+#J-18808-Ljbffr",https://au.jora.com/job/Machine-Learning-Engineer-1fd41dda3550ebd0ca32781362b47096,ML Engineer,New South Wales,2026-06-12 21:45:24
+c9581955-64c7-4109-8460-d2fd6b491767,Senior Machine Learning Engineer - Inspire & Create (AU Remote),Canva,Sydney NSW,2026-06-10,"Company Description
+Join the team redefining how the world experiences design.
+Hey, g'day, mabuhay, kia ora,你好, hallo, vítejte!
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. 
+Where and how you can work
+Our flagship campus is in Sydney, with a second campus in Melbourne and co-working spaces in Brisbane, Perth, Adelaide, and Auckland, NZ. You have flexibility in how and where you work — whether that's from one of our spaces, from home, or a mix of both. This role is remote-friendly within Australia, so you can choose the setup that empowers you and your team to do your best work.
+Job Description
+Join the team redefining how the world experiences design.
+Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
+Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+About the team
+We're Canva Grow, one of Canva’s newest product groups, born from the acquisition of MagicBrief. Our mission is to build the surface inside Canva that brings creativity, data, and insights together - helping businesses grow through better advertising.
+Advertising, when done well, connects people with things they love. Our goal is to help every business create ads that are effective, creative, and respectful of attention. We’re scaling fast, with the agility of a startup and the backing of Canva’s global platform.
+You'll be joining the Inspire & Create team, leading product development at the intersection of publishing systems, creative performance, and integrated ad platforms. But your work won’t be constrained to a single team. As our first MLE in Grow we will be looking to you to inform the full feedback loop across the whole group - your work will impact the entire customer journey from Inspire → Create → Publish → Insights → Recommend → Inspire.
+What you’d be doing in this role:
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+At the moment, this role is focused on:
+Building, testing, and shipping ML-powered features that enhance our ad generation experiences
+Designing scalable ML pipelines in collaboration with our platform teams
+Working closely with PMs, designers and engineers to align on user needs and product direction
+Running experiments to validate assumptions and improve model effectiveness
+Contributing to shared ML infrastructure and best practices at Canva
+Keeping up with state-of-the-art developments and exploring ways to apply them at scale
+You're probably a match if
+You’re a highly skilled machine learning engineer with a proven track record of delivering ML-powered product features in production.
+You bring deep technical expertise across the ML lifecycle - from data wrangling and model development to evaluation, deployment, and monitoring.
+You’re comfortable operating independently while collaborating deeply with cross-functional teams, and you’re motivated by user impact and product outcomes.
+You have demonstrated experience building and deploying ML-powered features in production environments.
+You have proficiency with Python and frameworks like TensorFlow or PyTorch.
+You are skilled across the ML lifecycle: data processing, model training, evaluation, deployment, and monitoring.
+You have proven ability to work independently while collaborating cross-functionally with product, design, and data.
+You have experience with Generative AI (GenAI): LLMs, diffusion models, prompt engineering, RAG, or fine-tuning.
+You have familiarity with GenAI platforms (e.g. OpenAI, Hugging Face, Anthropic) and embedding-based systems.
+You have a strong product mindset - prioritises ML solutions that improve user experience and product outcomes.
+You are committed to scalable, maintainable ML systems with clear metrics and impact tracking.
+You are passionate about ethical ML and responsible data usage, especially in learning environments.
+You enjoy mentoring and sharing best practices within the team.
+Additional Information
+Don't tick all the boxes? Don't worry about that - nobody does!  
+We’d still love to hear from you! At Canva, we know that great engineers come from a variety of backgrounds, and we value passion, curiosity, and a willingness to learn just as much as specific experience. If you're excited about this role but don’t tick every box, we encourage you to apply, you might a great fit in ways you didn’t expect!
+What's in it for you?
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a stack of benefits to set you up for every success in and outside of work.
+Here's a taste of what's on offer:
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally
+Check out  lifeatcanva.com for more info.
+Other stuff to know
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+All interviews are conducted virtually",https://au.jora.com/job/Machine-Learning-Engineer-59c1ee7e8df134b0aab5f127f979bd03,ML Engineer,New South Wales,2026-06-12 21:45:26
+7647baef-6280-40ca-ba92-e38d6a9cf914,AI Engineer - Manager - AI GTM Engine Room,EY,Sydney CBD NSW,2026-05-27,"Company description:
+At EY, we're all in to shape your future with confidence.
+We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+Join EY and help to build a better working world.
+Job description:
+AI Engineer - AI GTM Engine Room (Manager)
+The Opportunity
+Join EY's AI Go to Market (GTM) Engine Room, a high-velocity build capability at the centre of our Oceania AI growth strategy.
+As an AI Engineer, you will lead the experimentation, prototyping and deployment of advanced AI and Generative AI solutions that support client pursuits, industry demonstrations and scalable sector offerings. Working with leading foundation models and orchestration frameworks, you will translate emerging capabilities into practical, commercially viable solutions.
+Within the AI Labs Engine Room, you will operate across enterprise-grade environments, advanced tooling and significant model and compute capacity, enabling experimentation and iteration at scale within secure enterprise guardrails.
+You will combine rapid innovation with production discipline, leading engineers from concept to working solution at pace, shaping reusable AI accelerators and maturing successful prototypes into scalable enterprise deployments.
+You will play a key role in shaping AI positioning across priority sectors and strategic accounts.
+This role is based in Warrang - Sydney. This role can be performed from any of our EY offices across Australia. Our roles can potentially be adjusted to work flexibly with reduced hours. Please speak with us about potential options.
+Your key responsibilities
+Lead the prototyping and deployment of AI and Generative AI solutions supporting client pursuits and scalable sector offerings.
+Architect and implement LLM-powered applications and agentic workflows, including multi-agent orchestration and advanced tool/function calling patterns.
+Design and oversee data-driven architectures across cloud and hybrid environments.
+Engineer scalable AI systems with embedded Responsible AI, governance and security controls.
+Establish and embed MLOps and LLMOps practices including lifecycle management, experimentation tracking (MLflow, Weights & Biases), monitoring and safe deployment.
+Design and optimise data pipelines integrating structured and unstructured data sources.
+Select and implement vector database strategies alongside relational and NoSQL systems.
+Deploy and optimise AI workloads across AWS, Azure or GCP using containerisation, CI/CD and infrastructure-as-code.
+Mentor and guide junior engineers within the Engine Room.
+Evaluate emerging models, orchestration approaches and low-code platforms to continuously strengthen EY's AI capability.
+Skills and attributes for success
+You are an experienced hands-on AI engineer who thrives in fast-moving environments and is comfortable leading technical design and delivery.
+You will bring:
+Strong foundation in AI, machine learning and Generative AI with proven hands-on delivery experience.
+Deep experience working with LLMs (OpenAI, Anthropic, Llama or equivalent).
+Strong experience with orchestration frameworks such as LangChain and agentic system design.
+Demonstrated experience applying MLOps and LLMOps in production or near-production environments.
+Strong data engineering capability and architectural decision-making experience.
+Experience deploying and optimising AI workloads across AWS, Azure or GCP.
+Advanced Python programming capability and strong software engineering discipline.
+Strong understanding of Responsible AI, compliance and enterprise security guardrails.
+Ability to lead technical discussions with architects, sector leaders and clients.
+Ideally, you'll also have the skills and attributes below but don't worry if you don't tick all the boxes. We're interested in your aptitude, attitude and willingness to learn.
+Experience leading AI solutions that support commercial pursuits or reusable sector offerings.
+Experience mentoring engineers or leading technical workstreams.
+Exposure to model evaluation frameworks and structured experimentation environments.
+A degree in computer science, engineering, data science or related discipline.
+What we offer you
+At EY, we'll fuel you and your extraordinary talents in a diverse and inclusive culture of globally connected teams. We're proud to be recognised as the #1 WORK180 Endorsed Employer in the Top 101 Employers for Women 2026. Learn more.
+Career development: At EY, your career is yours to shape! We'll develop you with future-focused skills and equip you with world-class experiences ey.com/au/careerdevelopment
+Flexible work arrangements: Our flexible work policies empower you to balance your professional and personal life, fostering a culture of trust and autonomy.
+A comprehensive benefits package: From a yearly wellness incentive, to access to additional 8 weeks of flex leave per year, and family-friendly policies, including up to 26 weeks of gender-neutral paid parental leave, we cater to your diverse needs to help you thrive both personally and professionally www.ey.com/au/benefits
+Salary: We offer a competitive salary which is open to negotiation pending on skills and experience.
+Acknowledgement of Country
+EY acknowledges the Traditional Owners and Custodians of the lands on which EY offices are located around Australia. We pay our respects to their cultures, and to their Elders — past, present, and emerging. Find out more about our vision for reconciliation at ey.com/en_au/careers/indigenous
+Inclusiveness is core to who we are and how we work together, driving value for our people and for our business. We encourage applications from people of all ages, nationalities, abilities, cultures, sexual orientations, and gender identities and are committed to providing an equitable and barrier free recruitment experience for all. We encourage you to share any support and adjustments you need to be your best and participate equitably in our recruitment process. We understand sharing your needs with us can be daunting, so if you have questions before or during your application, we welcome you to get in touch at ***************@au.ey.com or +61 3 8650 7788 (option 2). Anything you tell us will be kept completely confidential.
+Are you ready to shape your future with confidence? Apply today.
+Profile description:
+EY | Building a better working world
+Our preferred applicant will be required to undertake employment screening by EY or our external third-party provider.
+© 2026 Ernst & Young Australia. A member firm of Ernst & Young Global Limited. All Rights Reserved.",https://au.jora.com/job/AI-Engineer-Manager-68d1696feacd1ba2f1e5a4fdfd73156c,ML Engineer,New South Wales,2026-06-12 21:45:28
+8d11c252-da08-4f38-aaf1-524468142669,Machine Learning Engineer - (Relocation to Australia),PingalAI,Sydney NSW,2025-12-14,"About the Role - As a Machine Learning Engineer based in Australia, you will design and deploy cutting-edge ML models to solve real-world business challenges in a collaborative, innovative environment.
+Key Responsibilities - 
+Design, develop, and deploy machine learning models that address business challenges.
+Collaborate with cross-functional teams to integrate machine learning solutions into products.
+Conduct data preprocessing and feature engineering to optimize model performance.
+Evaluate model performance using appropriate metrics and refine as necessary.
+Stay updated with the latest machine learning techniques and frameworks.
+Provide technical mentorship and guidance to junior engineers and data scientists.
+Document work and present findings to stakeholders for informed decision-making.
+About the company - PingalAI is redefining the future of business by harnessing the full force of Artificial Intelligence and data technology. With a global reach and partnerships across Microsoft, Amazon, Google, Salesforce, Oracle, and more, we empower organizations to embrace sustainable, profitable digital transformation. From AI & ML to robotics, cybersecurity, and cloud resilience, our expertise spans every frontier of innovation. What sets us apart is our triple bottom line—people, planet, and performance—ensuring that every solution we deliver is ethical, impactful, and future-ready. PingalAI isn’t just building technology; we’re building a bold, intelligent world where businesses thrive and society benefits.
+Key Differentiators
+Global Reach & Partnerships: Collaborations with leading AI ecosystems (Microsoft, Amazon, Google, Salesforce, Oracle, ServiceNow) amplify PingalAI’s ability to deliver cutting-edge solutions worldwide.
+Comprehensive Expertise: Services span engineering, DevOps, big data analytics, generative AI, cybersecurity, robotics, and AI R&D, making PingalAI a one-stop partner for digital transformation.
+Triple Bottom Line Commitment: Unlike many competitors, PingalAI integrates people, planet, and performance into its core mission, ensuring ethical AI and sustainable growth.
+Industry Applications: Proven impact across banking, financial services, marketing analytics, infrastructure modernization, and conversational AI, tailored to diverse global industries.
+Visionary Positioning: PingalAI positions itself not just as a service provider but as a digital advisor and innovation driver, pushing boundaries to meet the speed and quality expectations of modern enterprises.",https://au.jora.com/job/Machine-Learning-Engineer-507352ca740201d778af45079850508f,ML Engineer,New South Wales,2026-06-12 21:45:31
+6ea29b50-3222-4361-b53b-914a044fdc54,AI Engineer / Data Scientist (Agentic AI) | Manager/Senior Manager,PwC,Sydney NSW,2026-06-08,"The AI team is comprised of highly experienced designers, developers, data scientists and analysts who are responsible for delivering digital products and AI solutions to PwC’s business in Australia.
+The Opportunity 
+The AI team is comprised oAI Engineer / Data Scientist (Agentic AI) f highly experienced designers, developers, data scientists and analysts who are responsible for delivering digital products and AI solutions to PwC’s business across multiple lines of service in Australia. 
+We partner with subject matter experts across the business to advise on, design and build agentic AI systems and LLM-powered products that transform the way we deliver assurance, advisory, tax and legal services to our clients. 
+About The Role 
+As an AI Engineer / Data Scientist on our team, you will design, build and evaluate production agentic AI systems, LLM applications that reason, call tools, retrieve knowledge and complete multi-step tasks on behalf of our practitioners and clients. You will own problems end to end: from framing the approach and prototyping, to shipping reliable, observable agents at scale in the Azure cloud. 
+We are a data science team at heart, so we care deeply about rigour: measuring agent quality, running evaluations, and using the scientific method to know whether something actually works, not just whether it demos well. 
+On a day-to-day basis you will be: 
+Building agentic solutions: agents that plan and execute multi-step tasks over long horizons, with context compaction and tool-call repair so they stay reliable and on-budget. 
+Designing and expanding agent tool ecosystems: file/document operations, sandboxed code and bash execution, web search, and enterprise integrations (e.g. MS Graph) — with well-typed, testable schemas. 
+Orchestrating multi-agent / sub-agent systems that spawn parallel sub-tasks, coordinate, and report results back to a lead agent. 
+Building stateful LLM workflows (e.g. LangGraph) for domain pipelines such as research, summarisation and report generation. 
+Engineering RAG and retrieval pipelines: chunking, embeddings, vector search (pgvector / Azure AI Search), hybrid and re-ranked retrieval, and grounding LLM outputs in trusted sources. 
+Producing structured, reliable LLM outputs (function calling / Pydantic) and designing robust prompts and agent skills. 
+Building evaluation harnesses and offline batch evals (including deep-research style runs) to measure accuracy, faithfulness, cost and latency — and using those signals to iterate. 
+Instrumenting agents with observability and tracing (e.g. Langfuse, OpenTelemetry) and tracking token usage and cost in production. 
+Routing across multiple models and providers via an enterprise gateway (e.g. LiteLLM) and tuning model selection for quality, latency and cost. 
+Producing clean, maintainable, efficient code deployed at scale in the Azure cloud; scaffolding new projects, pairing with engineers, and reviewing pull requests. 
+Contributing to team stand-ups and the broader software development lifecycle, and participating in firmwide data science, ML and AI forums. 
+Coaching and mentoring junior data scientists and engineers. 
+Key capabilities and behaviours Applicants must be able to demonstrate the following key capabilities. We do not expect every candidate to tick every box, strong fundamentals and a track record of shipping LLM-powered products matter most. 
+Strong Python development experience, with hands-on use of modern LLM frameworks and SDKs (e.g. OpenAI / Anthropic SDKs, LiteLLM, LangGraph). 
+Deep, practical knowledge of prompt engineering, LLM workflows and agentic patterns, tool/function calling, multi-step agents, and structured outputs. 
+Experience building and optimising RAG pipelines, including evaluation, with industry-standard tooling. 
+Working knowledge of vector databases such as pgVector and Azure AI Search, plus embeddings and hybrid/semantic search. 
+Strong experience with SQL databases such as PostgreSQL (or equivalents). 
+A scientific, evaluation-first mindset: selecting appropriate methods, applying algorithms at scale, and using the scientific method to derive robust, defensible conclusions about model and agent behaviour. 
+Strong critical thinking, analytical rigour and outstanding attention to detail. 
+Proper source code management and confident use of Git. 
+Good written and verbal communication, and the ability to work effectively with remote teams. 
+A proactive, problem-solving approach and the ability to solve complex problems as part of a team. 
+Highly regarded (nice to have): 
+Experience with LLM observability and cost/quality tracing (e.g. Langfuse, OpenTelemetry). 
+Experience routing across multiple models/providers (e.g. via LiteLLM or an enterprise gateway) and reasoning about model selection trade-offs. 
+Experience designing multi-agent / sub-agent systems and agent tool ecosystems (web search, file/document tools, enterprise integrations such as MS Graph). 
+Experience with computer-use / browser-automation agents (e.g. Playwright). 
+Knowledge of classical ML (regression/boosting) and deep learning (CNN/RNN), preferably in NLP or CV. 
+A research background in ML/LLM model development, and the ability to identify emerging techniques and apply them to practical situations. 
+Experience with microservices, containerisation (Docker), and building/operating data pipelines at scale. 
+Experience with message-queueing solutions (e.g. RabbitMQ, Kafka). 
+Experience developing on cloud environments, particularly Azure (Azure OpenAI, AI Search, Blob, Key Vault, App Insights). 
+Knowledge of agile software development lifecycles (SDLC) and experience on agile projects. 
+TypeScript / full-stack experience is a strong bonus: much of our agent tooling and UI is built in TypeScript (Vercel AI SDK, NestJS, Next.js / React), and being able to work across the Python and TypeScript stack is highly valued. 
+About PwC  
+At PwC, we are a human-led, tech-powered community of solvers. We approach problems with curiosity, collaboration and willingness to challenge the status quo to develop innovative solutions in partnership with Australian businesses and not-for-profits. Together, we strive to make a positive impact and drive meaningful change.  
+That’s where our people come in. Whether you’re just beginning your career or have plenty of experience under your belt, we believe your unique perspective can help us to deliver valued insights that make a real impact. Here, you’ll be surrounded by peers who have your back and leaders who support you, in an environment that encourages continuous learning and growth.  
+Your benefits  
+Flexible working arrangements for how, where and when you work, ensuring you thrive while delivering top results for your team and clients  
+More opportunities to connect with loved ones, with the ability to work up to four weeks from anywhere in Australia and select international locations  
+Health and lifestyle perks like a wellness credit and discounted memberships  
+Gender inclusive 26 weeks paid parental leave  
+World-class development opportunities to accelerate your career  
+Strong mentors, meaningful work and plenty of networking opportunities  
+Dress for your day so you can feel confident and comfortable for whatever your day has in store for you  
+Our commitment to diversity and inclusion  
+We empower our people to use their creativity, authenticity and human differences to be champions of change and challenge our thinking. At PwC, we understand that diverse perspectives are necessary for solving complex problems. We believe that for diversity to truly flourish, it must be nurtured in an inclusive environment. That's why we are committed to fostering a workplace where everyone feels valued to thrive.  
+PwC is committed to making our recruitment processes inclusive, so if you need reasonable adjustments or would like to note which pronouns you use at any point in the application or interview process, please let us know.   
+No Agencies Please: We kindly request that recruitment agencies do not submit CVs in response to this advertisement. We are only accepting applications direct from individuals.",https://au.jora.com/job/Data-Scientist-6bf25b1ee23eb181de87ecb031a0e81f,ML Engineer,New South Wales,2026-06-12 21:45:33
+28263744-3df8-4bb9-bc9c-a3a177f6164d,AI Engineer / Data Scientist (Agentic AI) | Associate/Senior Associate,PwC,Sydney NSW,2026-06-08,"The AI team is comprised of highly experienced designers, developers, data scientists and analysts who are responsible for delivering digital products and AI solutions to PwC’s business in Australia.
+The Opportunity 
+The AI team is comprised of highly experienced designers, developers, data scientists and analysts who are responsible for delivering digital products and AI solutions to PwC’s business across multiple lines of service in Australia. 
+We partner with subject matter experts across the business to advise on, design and build agentic AI systems and LLM-powered products that transform the way we deliver assurance, advisory, tax and legal services to our clients. 
+About The Role 
+As an AI Engineer / Data Scientist on our team, you will design, build and evaluate production agentic AI systems, LLM applications that reason, call tools, retrieve knowledge and complete multi-step tasks on behalf of our practitioners and clients. You will own problems end to end: from framing the approach and prototyping, to shipping reliable, observable agents at scale in the Azure cloud. 
+We are a data science team at heart, so we care deeply about rigour: measuring agent quality, running evaluations, and using the scientific method to know whether something actually works, not just whether it demos well. 
+On a day-to-day basis you will be: 
+Building agentic solutions: agents that plan and execute multi-step tasks over long horizons, with context compaction and tool-call repair so they stay reliable and on-budget. 
+Designing and expanding agent tool ecosystems: file/document operations, sandboxed code and bash execution, web search, and enterprise integrations (e.g. MS Graph) — with well-typed, testable schemas. 
+Orchestrating multi-agent / sub-agent systems that spawn parallel sub-tasks, coordinate, and report results back to a lead agent. 
+Building stateful LLM workflows (e.g. LangGraph) for domain pipelines such as research, summarisation and report generation. 
+Engineering RAG and retrieval pipelines: chunking, embeddings, vector search (pgvector / Azure AI Search), hybrid and re-ranked retrieval, and grounding LLM outputs in trusted sources. 
+Producing structured, reliable LLM outputs (function calling / Pydantic) and designing robust prompts and agent skills. 
+Building evaluation harnesses and offline batch evals (including deep-research style runs) to measure accuracy, faithfulness, cost and latency — and using those signals to iterate. 
+Instrumenting agents with observability and tracing (e.g. Langfuse, OpenTelemetry) and tracking token usage and cost in production. 
+Routing across multiple models and providers via an enterprise gateway (e.g. LiteLLM) and tuning model selection for quality, latency and cost. 
+Producing clean, maintainable, efficient code deployed at scale in the Azure cloud; scaffolding new projects, pairing with engineers, and reviewing pull requests. 
+Contributing to team stand-ups and the broader software development lifecycle, and participating in firmwide data science, ML and AI forums. 
+Coaching and mentoring junior data scientists and engineers. 
+Key capabilities and behaviours Applicants must be able to demonstrate the following key capabilities. We do not expect every candidate to tick every box, strong fundamentals and a track record of shipping LLM-powered products matter most. 
+Strong Python development experience, with hands-on use of modern LLM frameworks and SDKs (e.g. OpenAI / Anthropic SDKs, LiteLLM, LangGraph). 
+Deep, practical knowledge of prompt engineering, LLM workflows and agentic patterns, tool/function calling, multi-step agents, and structured outputs. 
+Experience building and optimising RAG pipelines, including evaluation, with industry-standard tooling. 
+Working knowledge of vector databases such as pgVector and Azure AI Search, plus embeddings and hybrid/semantic search. 
+Strong experience with SQL databases such as PostgreSQL (or equivalents). 
+A scientific, evaluation-first mindset: selecting appropriate methods, applying algorithms at scale, and using the scientific method to derive robust, defensible conclusions about model and agent behaviour. 
+Strong critical thinking, analytical rigour and outstanding attention to detail. 
+Proper source code management and confident use of Git. 
+Good written and verbal communication, and the ability to work effectively with remote teams. 
+A proactive, problem-solving approach and the ability to solve complex problems as part of a team. 
+Highly regarded (nice to have): 
+Experience with LLM observability and cost/quality tracing (e.g. Langfuse, OpenTelemetry). 
+Experience routing across multiple models/providers (e.g. via LiteLLM or an enterprise gateway) and reasoning about model selection trade-offs. 
+Experience designing multi-agent / sub-agent systems and agent tool ecosystems (web search, file/document tools, enterprise integrations such as MS Graph). 
+Experience with computer-use / browser-automation agents (e.g. Playwright). 
+Knowledge of classical ML (regression/boosting) and deep learning (CNN/RNN), preferably in NLP or CV. 
+A research background in ML/LLM model development, and the ability to identify emerging techniques and apply them to practical situations. 
+Experience with microservices, containerisation (Docker), and building/operating data pipelines at scale. 
+Experience with message-queueing solutions (e.g. RabbitMQ, Kafka). 
+Experience developing on cloud environments, particularly Azure (Azure OpenAI, AI Search, Blob, Key Vault, App Insights). 
+Knowledge of agile software development lifecycles (SDLC) and experience on agile projects. 
+TypeScript / full-stack experience is a strong bonus: much of our agent tooling and UI is built in TypeScript (Vercel AI SDK, NestJS, Next.js / React), and being able to work across the Python and TypeScript stack is highly valued. 
+About PwC  
+At PwC, we are a human-led, tech-powered community of solvers. We approach problems with curiosity, collaboration and willingness to challenge the status quo to develop innovative solutions in partnership with Australian businesses and not-for-profits. Together, we strive to make a positive impact and drive meaningful change.  
+That’s where our people come in. Whether you’re just beginning your career or have plenty of experience under your belt, we believe your unique perspective can help us to deliver valued insights that make a real impact. Here, you’ll be surrounded by peers who have your back and leaders who support you, in an environment that encourages continuous learning and growth.  
+Your benefits  
+Flexible working arrangements for how, where and when you work, ensuring you thrive while delivering top results for your team and clients  
+More opportunities to connect with loved ones, with the ability to work up to four weeks from anywhere in Australia and select international locations  
+Health and lifestyle perks like a wellness credit and discounted memberships  
+Gender inclusive 26 weeks paid parental leave  
+World-class development opportunities to accelerate your career  
+Strong mentors, meaningful work and plenty of networking opportunities  
+Dress for your day so you can feel confident and comfortable for whatever your day has in store for you  
+Our commitment to diversity and inclusion  
+We empower our people to use their creativity, authenticity and human differences to be champions of change and challenge our thinking. At PwC, we understand that diverse perspectives are necessary for solving complex problems. We believe that for diversity to truly flourish, it must be nurtured in an inclusive environment. That's why we are committed to fostering a workplace where everyone feels valued to thrive.  
+PwC is committed to making our recruitment processes inclusive, so if you need reasonable adjustments or would like to note which pronouns you use at any point in the application or interview process, please let us know.   
+No Agencies Please: We kindly request that recruitment agencies do not submit CVs in response to this advertisement. We are only accepting applications direct from individuals.",https://au.jora.com/job/Senior-Associate-d8f481376ac390d9bc75e10ca422a504,ML Engineer,New South Wales,2026-06-12 21:45:35
+cd2bc5f7-ef0b-4864-9dfe-c2987c7ebdd7,"Data Scientist, AI",Virgin Australia,Sydney NSW,2026-06-02,"Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions.
+What you’ll be doing
+As a Data Scientist (AI), you’ll join a growing AI team that is helping shape the future of Virgin Australia.
+This is an exciting opportunity to work on greenfield AI initiatives that are strategically aligned to the business and focused on taking AI solutions from concept through to production. You'll sit at the intersection of data science, software engineering and AI, applying cutting-edge techniques to solve real business problems across customer experience, operational efficiency and employee productivity.
+We're looking for an engineer-scientist hybrid who is passionate about generative AI and enjoys turning emerging technologies into practical, scalable solutions. You'll work closely with engineers, product teams and business stakeholders to design, evaluate and improve AI systems that deliver measurable outcomes.
+In this role, you will:
+Design, build and optimise production AI solutions leveraging LLMs, retrieval-augmented generation (RAG), agentic workflows and tool integration patterns
+Develop and maintain AI data pipelines, embeddings, knowledge stores and retrieval systems
+Create evaluation frameworks and testing approaches for non-deterministic AI systems
+Improve model quality through prompt engineering, evaluation-driven optimisation, retrieval tuning and other model improvement techniques
+Design and implement structured context strategies, tool selection approaches and agent workflows
+Establish feedback loops that continuously improve AI system performance based on real-world outcomes
+Contribute to LLMOps and AgentOps practices, including prompt management, evaluation suites, safety testing and human-in-the-loop controls
+Support production monitoring, observability and continuous improvement of deployed AI solutions
+Stay across emerging AI research and identify opportunities to apply new techniques within Virgin Australia
+This is a hands-on role where you'll have the opportunity to experiment with frontier AI technologies while delivering solutions that create real business value.
+You’ll be great in this role if you have…
+Hands-on experience with LLMs, RAG architectures, agentic systems, tool/function calling and retrieval workflows.
+Strong Python development skills and a solid foundation in software engineering practices.
+Experience designing evaluation frameworks for AI systems and measuring solution quality.
+Knowledge of embeddings, vector search, agent planning and retrieval optimisation techniques.
+Experience working with AI orchestration frameworks such as Strands, OpenAI Agents SDK or similar.
+Excellent communication skills and the ability to work across technical and business stakeholders
+Desirable
+Experience with Databricks, MLflow, AWS and modern data ecosystems.
+Experience with vector databases and search technologies such as pgvector, OpenSearch or equivalent.
+Exposure to observability, monitoring and evaluation tooling for AI systems.
+Knowledge of LLMOps, AgentOps and MLOps practices.
+Experience with API integrations, scheduled pipelines and production deployments.
+Understanding of security, privacy and responsible AI principles.
+Open-source contributions or formal study in generative AI, NLP or machine learning.
+Why join us?
+You'll be joining Virgin Australia at a pivotal point in our AI journey, working on some of the organisation's most strategically important initiatives.
+This is an opportunity to be part of a growing AI team that is building production-ready AI solutions at scale. You'll have the freedom to explore emerging technologies, contribute to technical direction and help shape how AI is adopted across one of Australia's most recognised brands.
+We’re committed to looking after you, with some of the best benefits and conditions in the industry – including (but not limited to):
+Discounted flights for you and your loved ones (including $1000 worth of travel credits per year)
+A flexible, hybrid work style. Work from home or the office, adapt your location to suit your style and needs
+One of Brisbane’s most admired head office locations, with South Bank train station, a supermarket, pharmacy, and lunch options downstairs plus a 5-minute walk to the Busway, a rooftop restaurant and onsite gym (with a low membership fee) and South Bank Parklands just across the road
+Discounts on travel insurance, lounge membership, car hire, accommodation, and experiences worldwide
+Cheaper hospitality, retail, technology, beauty and wellness services
+Free counselling and access to a well-being app to support your physical, mental, social and financial health
+‘Dress for Your Day’ – enjoy the freedom to wear whatever makes you feel great for the type of work you do and the day you have ahead of you
+When everyone is included, everyone wins
+We’re all individuals. And we love that. That’s why we encourage applications from Indigenous Australians, people with disability, those from diverse cultural backgrounds, our friends in the LGBTQIA+ community, and anyone else who wants to join our family.
+Ready to apply?
+We’re ready to hear from you. Apply now.",https://au.jora.com/job/Data-Scientist-26ebfe6b5e1bf07891dd4e09ee585d9b,ML Engineer,New South Wales,2026-06-12 21:45:37
+3926a1ec-ba01-4df3-969c-d01cb6e2a504,"Technical Product Manager, LLM/ML Domain",Agoda,City of Sydney NSW,2026-06-02,"About Agoda
+At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world. Today, we are part of Booking Holdings with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. We connect people to destinations and experiences with our great deals across hotels, holiday properties, flights, and experiences worldwide. Data and technology are at the heart of our culture, fueling our curiosity and innovation.
+Technical Product Manager – ML & LLM Platforms
+The Opportunity
+Agoda is rapidly accelerating its AI transformation. Our ambition is to make ML and LLM application development fast, scalable, reliable, and increasingly autonomous. We are looking for a Technical Product Manager to own and evolve Agoda’s ML & LLM Ops platforms. This role will shape how teams across Agoda build, iterate, deploy, monitor, and scale machine learning and large language model applications. You will operate at the intersection of platform engineering, applied AI teams, and emerging AI coding agents — ensuring our internal platforms are production‑grade, optimized for experimentation, and increasingly native to AI‑assisted development. This is a high‑impact role in a fast‑moving space, where the goal is not just to support ML/LLM applications but to enable them to be created and iterated on with increasing automation and minimal human friction.
+In This Role, You’ll Get to
+Define and evolve the product vision and roadmap for Agoda’s ML & LLM Ops platforms
+Shape how teams productionize ML models and LLM‑powered applications
+Identify platform gaps, scalability constraints, and optimization opportunities
+Drive the evolution of our platform to support AI‑native development workflows and coding agents
+Requirements & Opportunity Discovery
+Gather requirements from ML engineers, data scientists, backend engineers, and AI application teams
+Translate complex technical needs into clear product requirements and prioritization frameworks
+Proactively identify opportunities to reduce friction, improve reliability, and increase deployment velocity
+Balance experimentation flexibility with governance, safety, and cost efficiency
+Execution & Delivery
+Own features end‑to‑end: concept, specification, prioritization, implementation, and post‑launch analysis
+Partner closely with engineering to balance platform scalability, performance, and technical debt
+Ensure platform capabilities support monitoring, evaluation, retraining, versioning, and observability of ML/LLM systems
+Drive adoption through documentation, training, and internal evangelism
+AI‑Native Platform Evolution
+Collaborate with engineering to level up Agoda’s platforms to be more compatible with AI coding assistants and autonomous agents
+Ensure platform APIs, tooling, and abstractions enable meaningful AI‑generated code contributions
+Help define guardrails and workflows that allow safe, reliable AI‑assisted development
+What You’ll Need To Succeed
+5+ years of experience in ML engineering, data science, platform engineering, or a related technical domain
+2+ years of technical product or program management experience in fast‑paced, high‑scale environments
+Experience working with ML Ops and/or LLM Ops concepts (model lifecycle, evaluation, monitoring, versioning, deployment pipelines)
+Technical Depth
+Strong understanding of ML systems and model lifecycle management
+Familiarity with LLM application patterns (RAG, fine‑tuning, prompt management, evaluation frameworks, etc.)
+Comfortable discussing architecture, APIs, infrastructure trade‑offs, and scalability concerns with senior engineers
+Strong analytical mindset with the ability to reason about system design, performance, and cost trade‑offs
+Leadership & Mindset
+Strong cross‑functional leadership skills and ability to influence without authority
+Comfortable operating in ambiguity and rapidly evolving technological landscapes
+Excellent communication skills — able to translate between business, platform engineering, and AI application teams
+Proactive, structured thinker with a strong problem‑solving mindset
+High ownership and bias for impact
+Why This Role Is Unique
+You will shape how AI is built at scale inside Agoda.
+You will influence the evolution of our internal platforms toward AI‑native and agent‑compatible development.
+You will work at the forefront of ML and LLM production systems in a rapidly changing ecosystem.
+Your work will directly accelerate Agoda’s ability to deliver AI‑powered experiences to millions of customers worldwide.
+This position requires a successful candidate to relocate fully to Bangkok, Thailand, where relocation support is provided.
+Equal Opportunity Employer
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+#J-18808-Ljbffr",https://au.jora.com/job/Technical-Product-Manager-6ece8a8b69575061aa8112f52bc55d1c,ML Engineer,New South Wales,2026-06-12 21:45:40
+64d318b2-db26-4c2a-8bc8-4bde11cd1ce3,AI Safety Specialist - Fully Remote | Upto $22/hr,Mercor,Sydney NSW,2026-06-10,"About the job
+Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.
+Position: AI Safety Experts — English & Assamese
+Type: Contract
+Compensation: $20–$22/hour
+Location: Remote
+Role Responsibilities
+Red team conversational AI models and agents to identify jailbreaks, prompt injections, misuse cases, and bias exploitation.
+Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks.
+Apply structure by following taxonomies, benchmarks, and playbooks to maintain consistent testing.
+Document reproducibly by producing reports, datasets, and attack cases that customers can act on.
+Review AI outputs on sensitive topics like bias, misinformation, or harmful behaviors, with optional participation in higher-sensitivity projects.
+Qualifications
+Must-Have
+Fluent Language Skills Required: English & Assamese
+Prior red teaming experience in AI adversarial work, cybersecurity, or socio-technical probing.
+Ability to push systems to breaking points with a curious and adversarial mindset.
+Structured approach using frameworks or benchmarks.
+Strong communication skills to explain risks to technical and non-technical stakeholders.
+Adaptability to move across projects and customers.
+Preferred
+Experience with Adversarial ML, Cybersecurity, and socio-technical risk.
+Skills in creative probing, such as psychology, acting, or writing for unconventional adversarial thinking.
+Application Process (Takes 20–30 mins to complete)
+Upload resume
+AI interview based on your resume
+Submit form
+Resources & Support
+For details about the interview process and platform information, please check: https://talent.docs.mercor.com/welcome
+For any help or support, reach out to: *******@mercor.com
+PS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.",https://au.jora.com/job/Safety-Specialist-f4612dd6b555ad54a6fb91c0c33eeb1c,ML Engineer,New South Wales,2026-06-12 21:45:42
+492f7784-2078-4ae7-b0ab-891488bc0e12,AI Safety Expert - Red Team,Mercor,Sydney NSW,2026-06-09,"About the job
+Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.
+Position: AI Safety Experts — English & Telugu
+Type: Contract
+Compensation: $20–$22/hour
+Location: Remote
+Role Responsibilities
+Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases.
+Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks.
+Apply structure by following taxonomies, benchmarks, and playbooks to ensure consistent testing.
+Document reproducibly by producing reports, datasets, and attack cases that customers can act on.
+Work independently and asynchronously to improve AI model performance and ensure flexible hours.
+Qualifications
+Must-Have
+Fluent in English & Telugu.
+Prior red teaming experience in AI adversarial work, cybersecurity, or socio-technical probing.
+Ability to explain risks clearly to both technical and non-technical stakeholders.
+Preferred
+Experience with adversarial ML, cybersecurity, or socio-technical risk analysis.
+Skills in creative probing such as psychology, acting, or writing.
+Compensation & Legal
+Hourly contractor
+Paid weekly via Stripe Connect
+Application Process (Takes 20–30 mins to complete)
+Upload resume
+AI interview based on your resume
+Submit form
+Resources & Support
+For details about the interview process and platform information, please check: https://talent.docs.mercor.com/welcome
+For any help or support, reach out to: *******@mercor.com
+PS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.",https://au.jora.com/job/AI-Safety-Expert-11e6dafb8e9dc3670d5517d3fdf42472,ML Engineer,New South Wales,2026-06-12 21:45:44
+30dd6106-cb08-41a6-a144-429981765485,AI Engineer,NCS Australia Group,Sydney NSW,2026-05-19,"Company Description
+At NCS Australia, we believe in doing technology services better. Our commitment to quality, focus on people, and willingness to challenge traditional thinking set us apart. Our team brings this belief to life by partnering with our clients and communities to make tomorrow together.
+We are committed to creating an environment that prioritises innovation, collaboration, and purposeful work. Our diverse team is empowered to make a meaningful impact with curiosity, creativity and resilience to shape better outcomes. Join us and accept the challenge of creating a better tomorrow.
+Job Description
+We’re hiring AI Engineers to design and deliver end-to-end AI/ML solutions using AWS and/or Azure. The role involves building and deploying machine learning models, developing data pipelines, and working closely with cross-functional teams to solve real business problems.
+Design, develop, and deploy AI/ML solutions using AWS and/or Azure services, including building and optimising machine learning models for real-world applications. The role involves developing and maintaining data pipelines and ML workflows, collaborating with cross-functional teams to translate business requirements into scalable AI solutions, and contributing to end-to-end delivery from experimentation to production. You will also ensure best practices in coding, testing, and MLOps, and for senior candidates, take on additional responsibilities such as solution design, stakeholder engagement, and mentoring junior engineers.
+Qualifications
+Strong experience in AI/ML Engineering, Data Engineering, or related fields
+Hands-on experience with AWS and/or Azure AI ecosystem
+Strong programming skills in Python and familiarity with ML frameworks (TensorFlow, PyTorch, Scikit-learn)
+Experience building and deploying ML models and pipelines in production environments
+Good understanding of cloud architecture, data engineering, and ML lifecycle
+Nice to Have
+Exposure to Generative AI / LLMs (OpenAI, Bedrock, etc.)
+Experience with MLOps, CI/CD pipelines, and model deployment practices
+Background in consulting or client-facing delivery environments
+Additional Information
+Why join us: 
+NCS Australia is where you can feel at home, nurturing your talents and skills as we make tomorrow together, one day at a time. Our benefits include paid parental leave, initiatives focused on your well-being and discounted health insurance. You will also enjoy discounts on various products and services and be regularly recognised and rewarded for high performance. We are committed to your career development through our Capability Fingerprint, industry and partner training programs, special interest groups, and an AI-driven learning platform. No matter where you are in your career, we offer meaningful work and opportunities for growth.
+NCS Australia is an equal-opportunity employer, and we take pride in our commitment to valuing and supporting our people and the communities we serve.We are dedicated to attracting, retaining and developing our people regardless of gender identity, ethnicity, sexual orientation, disability and age. Applications are encouraged from all sectors of the community and we strongly encourage applications from the Veterans, Aboriginal and/or Torres Strait Islander community.
+At NCS Australia, we are committed to supporting adjustments throughout the recruitment and selection process, as well as during employment. We actively support and encourage people with disability to apply. 
+Agencies:
+We’ve got this. We request that you do not contact NCS employees outside of the Talent Acquisition team. NCS exclusively accepts resumes from agencies on our preferred supplier panel through the NCS Agency Portal. Agencies that submit resumes must have a valid fee agreement and be assigned to the particular requisition by the Talent Acquisition team. Any resumes that are submitted outside of this process will become the sole property of NCS. If a candidate is hired outside of this process, no fee or payment will be given.
+Work rights and background checks: 
+To be eligible for a position with us, applicants will need to have valid work rights for Australia and be willing to undergo a comprehensive background checking process, including probity and police checks
+Why join us: 
+NCS Australia is where you can feel at home, nurturing your talents and skills as we make tomorrow together, one day at a time. Our benefits include paid parental leave, initiatives focused on your well-being and discounted health insurance. You will also enjoy discounts on various products and services and be regularly recognised and rewarded for high performance. We are committed to your career development through our Capability Fingerprint, industry and partner training programs, special interest groups, and an AI-driven learning platform. No matter where you are in your career, we offer meaningful work and opportunities for growth.
+NCS Australia is an equal-opportunity employer, and we take pride in our commitment to valuing and supporting our people and the communities we serve.We are dedicated to attracting, retaining and developing our people regardless of gender identity, ethnicity, sexual orientation, disability and age. Applications are encouraged from all sectors of the community and we strongly encourage applications from the Veterans, Aboriginal and/or Torres Strait Islander community.
+At NCS Australia, we are committed to supporting adjustments throughout the recruitment and selection process, as well as during employment. We actively support and encourage people with disability to apply. 
+Agencies:
+We’ve got this. We request that you do not contact NCS employees outside of the Talent Acquisition team. NCS exclusively accepts resumes from agencies on our preferred supplier panel through the NCS Agency Portal. Agencies that submit resumes must have a valid fee agreement and be assigned to the particular requisition by the Talent Acquisition team. Any resumes that are submitted outside of this process will become the sole property of NCS. If a candidate is hired outside of this process, no fee or payment will be given.
+Work rights and background checks: 
+To be eligible for a position with us, applicants will need to have valid work rights for Australia and be willing to undergo a comprehensive background checking process, including probity and police checks",https://au.jora.com/job/AI-Engineer-703348b1fa8aba8b6e17ae36c69706d9,ML Engineer,New South Wales,2026-06-12 21:45:47
